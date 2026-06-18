@@ -19,9 +19,9 @@ pinned: false
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![DuckDB](https://img.shields.io/badge/DuckDB-0.10+-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://duckdb.org)
-[![Railway](https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app)
+[![Hugging Face](https://img.shields.io/badge/Deploy-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/twinkle8781/lens-sql)
 
-[**Live Demo**](https://lens-sql.up.railway.app) · [**Playground**](https://lens-sql.up.railway.app/playground) · [**10 Interactive Lessons**](https://lens-sql.up.railway.app/learn)
+[**Live Demo**](https://twinkle8781-lens-sql.hf.space) · [**Playground**](https://twinkle8781-lens-sql.hf.space/playground) · [**10 Interactive Lessons**](https://twinkle8781-lens-sql.hf.space/learn)
 
 </div>
 
@@ -116,7 +116,7 @@ Run that. Lens shows you: two sequential scans feed a hash join, which feeds a h
 | DuckDB runs in-process | No external DB server needed; sub-millisecond plan extraction via `EXPLAIN FORMAT=JSON` |
 | WebSocket per session | DDL statements (`CREATE TABLE`, `INSERT`) persist across queries in the same tab |
 | Volcano particle animation | Arrows travel upward — leaf scans → parent operators — because that's how the model actually works |
-| Frontend served from backend | Single Railway service; no CORS configuration needed in production |
+| Frontend served from backend | Single Docker container; no CORS configuration needed in production |
 
 ---
 
@@ -133,7 +133,7 @@ Run that. Lens shows you: two sequential scans feed a hash join, which feeds a h
 | ASGI server | Uvicorn |
 | Database engine | DuckDB 0.10 |
 | AI inference | Groq API (Llama 3.3 70B) |
-| Deployment | Railway (single service, Nixpacks) |
+| Deployment | Hugging Face Spaces (Docker) |
 
 ---
 
@@ -185,31 +185,37 @@ Get a free key at [console.groq.com](https://console.groq.com). The app works fu
 
 ---
 
-## Deployment on Railway
+## Deployment on Hugging Face Spaces
 
-This repo is configured for a **single Railway service** that builds the frontend, then serves it as static files from the FastAPI backend.
+This repo deploys as a **single Docker container** — the frontend is built at image-build time and served as static files from the FastAPI backend. No separate frontend service needed.
 
-### One-click deploy
+### Live deployment
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template)
+[huggingface.co/spaces/twinkle8781/lens-sql](https://huggingface.co/spaces/twinkle8781/lens-sql)
 
-### Manual deploy
+### Deploy your own
 
-1. Push this repo to GitHub
-2. New project → **Deploy from GitHub repo** → select `Lens_SQL`
-3. Railway auto-detects the `railway.toml` and `nixpacks.toml`
+1. Create a free account at [huggingface.co](https://huggingface.co)
+2. New Space → **SDK: Docker** → choose CPU Basic (free)
+3. Add HF as a git remote and push:
 
-**Build pipeline** (Railway runs this automatically):
+```bash
+git remote add hf https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME
+git push hf main
 ```
-npm install  (frontend)
-npm run build  →  frontend/dist/
+
+HF Spaces builds automatically from the `Dockerfile`. The multi-stage build installs Node dependencies, compiles the React frontend, installs Python dependencies, then starts uvicorn — all in one container.
+
+**Build pipeline:**
+```
+npm install + npm run build   →  frontend/dist/
 pip install -r backend/requirements.txt
-uvicorn main:app --host 0.0.0.0 --port $PORT
+cd /app/backend && uvicorn main:app --host 0.0.0.0 --port 7860
 ```
 
 ### Environment variables (optional)
 
-Set these in the Railway service dashboard:
+Set these in the Space's **Settings → Variables** tab:
 
 | Variable | Description |
 |---|---|
@@ -263,8 +269,8 @@ Lens_SQL/
 │   ├── package.json
 │   └── vite.config.ts           # Dev proxy + Monaco optimizeDeps
 │
-├── railway.toml                 # Railway build + start commands
-├── nixpacks.toml                # Nixpacks build phases (Python + Node)
+├── Dockerfile                   # Multi-stage build: Node (frontend) + Python (backend)
+├── fly.toml                     # Fly.io config (alternative deployment option)
 └── README.md
 ```
 
@@ -369,6 +375,6 @@ FROM orders LIMIT 100;
 
 <div align="center">
 
-Built with DuckDB 🦆 · Powered by the Volcano iterator model · Deployed on Railway
+Built with DuckDB 🦆 · Powered by the Volcano iterator model · Deployed on Hugging Face Spaces
 
 </div>
