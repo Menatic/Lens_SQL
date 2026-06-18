@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Node / Vite
+node_modules/
+frontend/dist/
+
+# DuckDB temp files
+*.duckdb
+*.duckdb.wal
+connections.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Playwright / Claude artifacts
+.playwright-mcp/
+.claude/
+
+# Logs
+*.log

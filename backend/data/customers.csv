@@ -1,0 +1,2001 @@
+customer_id,name,country,joined_date,loyalty_tier
+1,Quinn Garcia,United States,2019-06-02,Bronze
+2,Kevin Miller,Canada,2020-08-09,Silver
+3,Carlos Johnson,Spain,2015-03-29,Bronze
+4,Rachel Williams,United States,2015-06-10,Bronze
+5,Fiona Jackson,Japan,2019-08-04,Gold
+6,Oscar Thompson,United States,2020-09-12,Silver
+7,Mike Wilson,Canada,2022-10-13,Silver
+8,Steve Williams,Japan,2016-08-11,Platinum
+9,Paula Jackson,Australia,2015-01-15,Bronze
+10,Tina Moore,Germany,2018-12-22,Bronze
+11,Carlos Jones,Germany,2021-06-08,Bronze
+12,George Anderson,France,2020-02-13,Bronze
+13,Steve Garcia,Brazil,2015-10-27,Platinum
+14,Oscar Thomas,Japan,2016-04-21,Bronze
+15,Julia Jones,Spain,2017-02-16,Bronze
+16,Alice Brown,United States,2020-04-27,Gold
+17,Bob Brown,Brazil,2020-03-03,Silver
+18,Julia Moore,Japan,2015-03-22,Silver
+19,Julia Thompson,Japan,2017-12-22,Silver
+20,Paula Taylor,United States,2020-02-10,Silver
+21,George Brown,Germany,2017-04-19,Bronze
+22,Kevin Davis,Canada,2021-09-17,Bronze
+23,Fiona Brown,Brazil,2018-03-20,Bronze
+24,Alice Davis,Brazil,2018-11-28,Bronze
+25,Diana Thomas,Canada,2021-04-17,Silver
+26,Nina Thomas,India,2022-09-07,Silver
+27,Fiona Miller,Spain,2023-01-20,Bronze
+28,George Jones,Brazil,2020-12-07,Bronze
+29,Fiona Martin,Canada,2022-10-20,Silver
+30,Nina Miller,Australia,2019-02-09,Gold
+31,Alice Williams,Germany,2015-09-29,Silver
+32,Steve Williams,Canada,2022-08-03,Silver
+33,Steve Anderson,Germany,2018-08-10,Bronze
+34,Kevin Young,Australia,2017-08-27,Gold
+35,Carlos Young,Japan,2019-02-03,Bronze
+36,Paula Johnson,Australia,2021-12-29,Gold
+37,Ivan Anderson,Spain,2021-05-13,Bronze
+38,Kevin Jones,United Kingdom,2015-01-19,Bronze
+39,George Martin,India,2022-06-21,Bronze
+40,Oscar Williams,France,2022-02-14,Bronze
+41,Julia Jones,United Kingdom,2016-08-01,Platinum
+42,Diana Smith,United States,2018-03-18,Bronze
+43,Paula Lee,Brazil,2018-12-19,Bronze
+44,Bob Johnson,India,2018-03-10,Silver
+45,Kevin Moore,Germany,2018-11-22,Silver
+46,Kevin Jackson,India,2019-04-21,Gold
+47,Fiona Garcia,Spain,2015-08-14,Platinum
+48,Kevin Wilson,Canada,2016-01-23,Bronze
+49,Alice Anderson,Japan,2020-08-01,Bronze
+50,Ethan Lee,France,2022-10-29,Gold
+51,Nina Young,United States,2020-03-22,Platinum
+52,Mike Wilson,India,2022-03-31,Bronze
+53,Hannah Taylor,India,2023-03-04,Bronze
+54,Rachel Young,Australia,2015-12-05,Bronze
+55,Laura Jones,United States,2018-05-30,Bronze
+56,Alice Johnson,Canada,2020-11-04,Bronze
+57,Alice White,Japan,2016-06-15,Bronze
+58,Hannah Garcia,Australia,2018-11-05,Bronze
+59,Fiona White,Canada,2017-06-03,Silver
+60,Ethan Thomas,Germany,2016-06-06,Bronze
+61,Nina Miller,Canada,2020-12-08,Bronze
+62,Hannah Jones,France,2015-01-12,Bronze
+63,Nina Wilson,Japan,2020-05-31,Bronze
+64,Alice Davis,India,2015-08-19,Silver
+65,Kevin Moore,United Kingdom,2021-01-26,Bronze
+66,Fiona Johnson,France,2021-07-23,Bronze
+67,Bob Brown,United States,2018-02-05,Silver
+68,George Miller,United States,2019-01-29,Silver
+69,Steve Thompson,United States,2021-07-07,Silver
+70,Hannah Wilson,United States,2022-06-11,Silver
+71,Nina Smith,United States,2023-03-06,Silver
+72,Paula Thomas,India,2018-04-09,Silver
+73,Mike Anderson,Australia,2020-11-05,Silver
+74,Ethan Garcia,Australia,2017-01-28,Gold
+75,Oscar Thomas,India,2018-12-11,Bronze
+76,Laura Jackson,Canada,2018-06-30,Platinum
+77,Steve Garcia,Brazil,2020-07-15,Bronze
+78,Carlos Lee,France,2016-08-22,Gold
+79,Ethan Jackson,Brazil,2018-07-02,Silver
+80,Ethan Garcia,Germany,2016-01-05,Bronze
+81,Bob Lee,Australia,2016-12-16,Bronze
+82,Diana Wilson,Spain,2021-02-20,Bronze
+83,Julia Garcia,United States,2023-03-14,Gold
+84,Hannah Taylor,Brazil,2020-08-04,Bronze
+85,Hannah Brown,Germany,2017-11-04,Bronze
+86,Steve Davis,India,2019-04-19,Silver
+87,George Thomas,Germany,2017-07-27,Platinum
+88,Paula Taylor,Australia,2017-04-15,Bronze
+89,Oscar Miller,Canada,2020-06-01,Platinum
+90,Nina Miller,United States,2023-01-16,Platinum
+91,Kevin Thompson,Australia,2020-09-17,Bronze
+92,Nina Anderson,Canada,2022-01-22,Silver
+93,Tina Young,United Kingdom,2018-11-15,Silver
+94,Rachel Young,Brazil,2017-06-16,Silver
+95,Hannah Harris,India,2018-08-06,Platinum
+96,Diana Wilson,Canada,2022-02-24,Gold
+97,Steve Martin,France,2019-07-31,Silver
+98,Nina Brown,Spain,2015-03-28,Bronze
+99,Alice Taylor,Japan,2015-11-18,Bronze
+100,Laura Anderson,Australia,2016-02-01,Bronze
+101,Julia Lee,India,2016-05-17,Silver
+102,Mike Lee,Japan,2016-03-03,Bronze
+103,Rachel Martin,Spain,2015-04-23,Bronze
+104,Carlos Martin,Brazil,2016-05-31,Silver
+105,Alice Williams,Germany,2019-08-26,Silver
+106,Diana Anderson,Japan,2016-11-21,Silver
+107,Ivan Garcia,United States,2019-05-18,Bronze
+108,Carlos Brown,Japan,2022-01-03,Silver
+109,Paula Jackson,Spain,2015-02-13,Bronze
+110,Hannah Taylor,Germany,2019-07-19,Gold
+111,Ethan Williams,Spain,2018-05-03,Silver
+112,Carlos Young,United States,2022-10-07,Bronze
+113,Hannah Garcia,Brazil,2022-12-02,Bronze
+114,Paula Davis,Germany,2018-10-25,Platinum
+115,Laura Lee,Germany,2016-05-08,Gold
+116,Hannah Johnson,France,2018-05-10,Silver
+117,Steve Johnson,Australia,2019-08-06,Silver
+118,George Williams,Brazil,2016-07-17,Silver
+119,Carlos Johnson,Canada,2019-06-07,Bronze
+120,Carlos Williams,India,2022-10-05,Bronze
+121,Oscar Smith,United Kingdom,2021-05-08,Silver
+122,Rachel Miller,Australia,2015-03-23,Silver
+123,Julia Moore,Australia,2021-12-12,Bronze
+124,Rachel Brown,France,2016-01-25,Bronze
+125,Julia White,United States,2021-06-22,Silver
+126,George Wilson,United Kingdom,2017-08-24,Bronze
+127,Alice Taylor,Canada,2022-10-07,Bronze
+128,Nina Wilson,Brazil,2016-03-24,Silver
+129,Mike Jones,Spain,2018-01-10,Bronze
+130,Rachel Brown,France,2015-12-28,Bronze
+131,Kevin Davis,Spain,2018-02-26,Silver
+132,Alice White,Germany,2015-04-03,Gold
+133,Oscar Thompson,Canada,2023-03-07,Gold
+134,Quinn Wilson,Australia,2021-01-03,Bronze
+135,Fiona Jones,Germany,2019-12-22,Silver
+136,Mike Smith,Germany,2016-01-28,Silver
+137,Bob Jackson,Japan,2020-06-09,Bronze
+138,Fiona White,Spain,2017-02-25,Silver
+139,Julia Wilson,Canada,2018-12-08,Gold
+140,Diana Young,United States,2019-07-20,Bronze
+141,Julia Jones,United Kingdom,2023-03-20,Gold
+142,Rachel Miller,United States,2019-08-31,Bronze
+143,Ivan Moore,France,2023-02-22,Bronze
+144,Alice Martin,Canada,2016-11-15,Bronze
+145,Laura Wilson,Germany,2017-07-27,Bronze
+146,Hannah Taylor,France,2022-09-20,Bronze
+147,Oscar Jones,Canada,2020-11-06,Bronze
+148,Tina Martin,France,2016-11-10,Bronze
+149,Kevin Davis,Australia,2015-04-18,Bronze
+150,Fiona White,Brazil,2017-12-07,Silver
+151,Steve Smith,France,2017-07-31,Silver
+152,Paula Brown,France,2020-05-07,Gold
+153,Kevin Martin,Brazil,2022-09-13,Silver
+154,Kevin Jones,Germany,2017-01-17,Silver
+155,Fiona Johnson,United States,2018-06-04,Bronze
+156,Ethan Miller,Canada,2016-06-28,Platinum
+157,Bob Miller,France,2022-08-08,Gold
+158,Paula Miller,India,2018-05-20,Bronze
+159,George Anderson,United States,2015-08-11,Bronze
+160,Kevin Jackson,France,2021-02-02,Bronze
+161,Mike Jackson,Spain,2018-02-20,Silver
+162,George Jackson,Australia,2020-09-10,Bronze
+163,Tina Moore,Spain,2015-10-18,Silver
+164,Paula Thompson,Australia,2022-10-12,Bronze
+165,Hannah Moore,Canada,2018-07-15,Silver
+166,Hannah Garcia,Spain,2019-05-16,Bronze
+167,George Harris,Australia,2021-07-09,Bronze
+168,Ethan Thompson,France,2015-12-30,Silver
+169,Rachel Martin,Japan,2016-03-21,Bronze
+170,Nina Thomas,France,2017-09-25,Gold
+171,Fiona Martin,United States,2021-10-06,Bronze
+172,Kevin Wilson,United Kingdom,2019-04-02,Silver
+173,Julia Lee,Brazil,2020-02-13,Bronze
+174,Laura Wilson,Spain,2016-04-11,Bronze
+175,Ivan Johnson,Japan,2019-03-01,Silver
+176,Paula Thomas,Australia,2016-01-27,Platinum
+177,Nina Harris,Canada,2021-09-11,Gold
+178,Oscar Anderson,France,2018-11-28,Bronze
+179,Quinn Davis,Canada,2019-02-06,Bronze
+180,Steve Miller,France,2018-05-21,Silver
+181,Kevin Jackson,Australia,2016-03-20,Bronze
+182,Rachel Jones,Germany,2022-11-27,Platinum
+183,George Johnson,Spain,2018-05-11,Bronze
+184,Bob Taylor,Spain,2019-10-15,Bronze
+185,Laura Jackson,United Kingdom,2016-11-18,Bronze
+186,Rachel Miller,France,2018-05-07,Bronze
+187,Julia Thomas,Brazil,2021-07-03,Gold
+188,Steve Miller,India,2021-08-01,Bronze
+189,Fiona Lee,United Kingdom,2018-03-18,Silver
+190,Hannah Harris,France,2018-10-19,Silver
+191,Fiona Lee,United States,2020-10-27,Gold
+192,Carlos Williams,Japan,2022-09-20,Silver
+193,Nina White,Canada,2017-12-15,Silver
+194,Oscar Martin,Japan,2020-11-23,Gold
+195,George Jones,United States,2020-02-17,Bronze
+196,Carlos Brown,Japan,2021-12-02,Bronze
+197,Diana Thompson,Germany,2019-06-02,Silver
+198,Paula Williams,India,2023-01-07,Silver
+199,Bob Brown,Australia,2017-07-24,Silver
+200,Rachel White,Canada,2015-03-27,Bronze
+201,Ivan Williams,Spain,2015-09-22,Silver
+202,Steve Young,Canada,2023-01-19,Gold
+203,Tina Thompson,Australia,2022-05-13,Silver
+204,Diana Harris,Canada,2016-11-21,Bronze
+205,Julia Jones,Germany,2019-12-24,Bronze
+206,Julia Anderson,United Kingdom,2016-11-18,Gold
+207,Quinn Taylor,India,2021-05-06,Silver
+208,George White,United States,2021-04-11,Bronze
+209,Hannah Anderson,Brazil,2022-08-31,Bronze
+210,Carlos Thompson,Spain,2016-04-22,Bronze
+211,Julia Young,Germany,2017-11-11,Bronze
+212,Diana Jones,India,2022-01-10,Bronze
+213,Steve Young,Brazil,2017-01-01,Bronze
+214,Hannah Brown,Australia,2015-08-04,Silver
+215,Alice Thompson,Japan,2019-11-27,Bronze
+216,Bob Wilson,Germany,2021-06-26,Bronze
+217,Oscar Lee,United States,2017-05-22,Bronze
+218,Bob Thomas,Canada,2016-09-05,Silver
+219,Quinn Garcia,France,2019-01-14,Silver
+220,Quinn Wilson,India,2020-08-21,Gold
+221,Mike Lee,United Kingdom,2021-01-11,Silver
+222,Nina Moore,India,2022-10-13,Gold
+223,Carlos Garcia,United Kingdom,2016-08-31,Bronze
+224,Steve Thomas,United States,2018-12-05,Silver
+225,George Harris,United States,2022-12-01,Bronze
+226,Oscar Jones,France,2018-09-30,Bronze
+227,Ivan Miller,Japan,2016-01-01,Bronze
+228,Quinn Thompson,Brazil,2015-08-25,Silver
+229,Paula Brown,Japan,2016-10-24,Gold
+230,Quinn Wilson,Brazil,2019-03-11,Gold
+231,Quinn Harris,United States,2015-08-04,Silver
+232,Ivan Jackson,United Kingdom,2017-12-29,Bronze
+233,Tina Wilson,India,2017-09-29,Platinum
+234,Quinn Anderson,Japan,2023-02-07,Bronze
+235,Nina Jackson,India,2018-10-18,Silver
+236,Nina White,Brazil,2020-11-27,Silver
+237,Hannah Jones,Canada,2021-12-06,Bronze
+238,Kevin Miller,Spain,2017-05-06,Bronze
+239,Mike Williams,Spain,2021-05-26,Silver
+240,Ethan Thomas,United States,2017-10-12,Silver
+241,Mike Brown,Australia,2023-02-02,Bronze
+242,Julia Jones,France,2019-05-29,Silver
+243,Oscar Martin,United States,2022-07-25,Bronze
+244,Carlos White,United Kingdom,2021-03-02,Bronze
+245,Rachel Thompson,United States,2020-02-12,Bronze
+246,Mike Brown,Germany,2015-06-11,Bronze
+247,Nina Taylor,Canada,2018-08-30,Bronze
+248,Nina Thomas,France,2022-09-28,Bronze
+249,George Thomas,France,2022-12-01,Silver
+250,Diana Miller,Spain,2016-08-08,Silver
+251,Ethan Garcia,France,2015-08-27,Gold
+252,Fiona Brown,United States,2017-08-03,Bronze
+253,Steve Thompson,Germany,2015-05-06,Bronze
+254,Rachel White,Spain,2023-01-13,Silver
+255,Paula Johnson,United Kingdom,2016-12-15,Bronze
+256,Kevin White,Spain,2017-06-10,Silver
+257,Paula Anderson,Spain,2015-01-29,Bronze
+258,Tina Jones,Spain,2022-08-17,Silver
+259,Tina Jones,United States,2015-10-06,Bronze
+260,Oscar Smith,Canada,2018-08-08,Gold
+261,Ivan Smith,India,2018-08-11,Bronze
+262,Paula Moore,Spain,2022-02-28,Bronze
+263,Carlos Davis,Spain,2016-09-28,Silver
+264,George Jackson,Spain,2019-09-27,Silver
+265,Tina Davis,India,2016-08-28,Silver
+266,Rachel Davis,United Kingdom,2017-09-04,Silver
+267,Alice Miller,France,2021-04-21,Bronze
+268,Hannah Jackson,Brazil,2017-03-24,Gold
+269,Mike Williams,Canada,2023-01-25,Gold
+270,Julia Harris,Japan,2015-11-10,Silver
+271,Laura Jackson,United Kingdom,2022-07-05,Silver
+272,Rachel Brown,India,2016-03-31,Silver
+273,Alice Thomas,Spain,2021-10-03,Bronze
+274,Ethan Young,Germany,2016-11-03,Gold
+275,Carlos Lee,Brazil,2020-08-28,Silver
+276,Kevin Martin,Spain,2017-05-11,Silver
+277,Ethan Johnson,United Kingdom,2015-06-08,Platinum
+278,Rachel Lee,India,2022-09-20,Bronze
+279,Alice Harris,Germany,2017-07-29,Bronze
+280,Ethan Harris,Canada,2019-12-07,Silver
+281,Bob Williams,Spain,2018-06-19,Bronze
+282,Alice Martin,India,2017-04-13,Bronze
+283,Ivan Wilson,Germany,2018-10-21,Bronze
+284,Julia Jones,Canada,2021-09-15,Silver
+285,Carlos Harris,India,2018-09-20,Silver
+286,Paula Harris,United States,2016-09-28,Bronze
+287,Ethan Martin,France,2015-12-01,Bronze
+288,Carlos Anderson,Brazil,2015-10-08,Silver
+289,Carlos Smith,Canada,2022-03-11,Bronze
+290,Steve White,Spain,2022-11-23,Gold
+291,Hannah Moore,United Kingdom,2015-04-26,Silver
+292,Ethan Moore,Germany,2018-11-27,Bronze
+293,Tina Thomas,France,2016-03-11,Bronze
+294,Mike Garcia,Japan,2021-04-14,Bronze
+295,Carlos Thompson,Brazil,2020-04-01,Silver
+296,Rachel Lee,Japan,2015-12-25,Silver
+297,Nina Thompson,Brazil,2022-11-15,Bronze
+298,Nina Jones,United States,2018-05-19,Bronze
+299,Steve Harris,Australia,2022-12-15,Silver
+300,Carlos Johnson,United Kingdom,2022-09-21,Platinum
+301,Julia Williams,United States,2023-02-06,Bronze
+302,Ethan Anderson,Spain,2022-02-15,Bronze
+303,Bob Thomas,Australia,2016-02-01,Bronze
+304,Nina Thompson,Germany,2018-08-24,Gold
+305,Kevin Jones,India,2020-10-05,Bronze
+306,Bob Moore,Spain,2019-09-03,Gold
+307,Laura Wilson,Japan,2021-04-28,Bronze
+308,Bob Martin,Canada,2022-03-19,Silver
+309,Kevin Williams,Brazil,2015-02-28,Gold
+310,Ethan Johnson,Canada,2020-05-17,Bronze
+311,Alice Martin,Brazil,2021-04-08,Silver
+312,Oscar Taylor,Germany,2019-05-03,Bronze
+313,Fiona Martin,Canada,2018-04-25,Bronze
+314,Hannah Miller,Australia,2021-03-10,Silver
+315,Fiona Williams,United States,2017-06-02,Bronze
+316,Paula Smith,United States,2016-08-04,Bronze
+317,George Taylor,India,2016-07-24,Bronze
+318,Alice Jackson,Germany,2020-04-02,Bronze
+319,Carlos Anderson,Brazil,2015-08-07,Gold
+320,Quinn Miller,Germany,2020-09-09,Platinum
+321,Bob Wilson,United Kingdom,2019-04-08,Bronze
+322,Hannah Taylor,Canada,2017-06-19,Gold
+323,Julia Young,United Kingdom,2023-01-08,Silver
+324,Quinn Young,Germany,2018-06-13,Gold
+325,Kevin White,Canada,2022-04-20,Bronze
+326,Julia Davis,France,2017-08-02,Bronze
+327,Alice Miller,United States,2022-06-22,Silver
+328,Kevin Thompson,United Kingdom,2020-08-13,Bronze
+329,Quinn Anderson,France,2018-11-06,Bronze
+330,Nina Jones,Spain,2016-09-14,Bronze
+331,Rachel Johnson,Spain,2021-09-11,Bronze
+332,Carlos Young,Canada,2017-09-10,Bronze
+333,George Davis,France,2015-10-03,Bronze
+334,Tina Miller,India,2019-04-10,Silver
+335,Laura Taylor,Japan,2021-03-08,Bronze
+336,Bob Garcia,Germany,2015-02-09,Silver
+337,Alice Anderson,France,2021-02-06,Silver
+338,Paula Young,Germany,2020-01-17,Silver
+339,Carlos Miller,Germany,2018-02-20,Bronze
+340,Carlos Thompson,France,2022-08-30,Bronze
+341,Tina Brown,Canada,2019-11-16,Bronze
+342,Fiona Johnson,United Kingdom,2023-03-10,Bronze
+343,Oscar Young,India,2017-07-13,Bronze
+344,Alice White,Brazil,2015-11-06,Gold
+345,Nina Johnson,United Kingdom,2015-05-08,Silver
+346,Hannah Brown,Brazil,2017-09-16,Bronze
+347,Tina Young,Japan,2017-04-11,Bronze
+348,Laura Anderson,France,2022-04-18,Silver
+349,Tina White,Australia,2017-04-07,Bronze
+350,Kevin Jones,India,2019-03-19,Bronze
+351,Fiona Garcia,Canada,2015-04-05,Gold
+352,Bob Johnson,Germany,2018-07-05,Silver
+353,Paula Taylor,India,2015-12-09,Silver
+354,Kevin Johnson,United States,2017-01-27,Bronze
+355,Paula Wilson,United States,2022-07-11,Silver
+356,Paula Anderson,Brazil,2022-11-20,Silver
+357,Ivan Jones,France,2018-11-19,Bronze
+358,Rachel Johnson,Germany,2019-11-12,Bronze
+359,Diana Moore,Spain,2016-07-25,Gold
+360,Quinn Moore,United Kingdom,2019-05-07,Silver
+361,Ivan Moore,Brazil,2020-04-02,Silver
+362,Fiona Harris,Spain,2019-09-01,Silver
+363,George Lee,Germany,2015-01-24,Bronze
+364,Carlos Anderson,Brazil,2015-01-23,Silver
+365,Laura Miller,France,2015-02-15,Bronze
+366,Ivan Lee,Canada,2021-03-24,Bronze
+367,Steve Thompson,India,2016-08-08,Silver
+368,Quinn Harris,Canada,2018-04-07,Bronze
+369,Paula Miller,United Kingdom,2017-12-13,Silver
+370,Alice Jones,Spain,2015-03-28,Bronze
+371,Alice Johnson,India,2016-03-11,Silver
+372,Alice Davis,Spain,2016-01-07,Bronze
+373,Julia Smith,Brazil,2018-11-11,Bronze
+374,Steve White,India,2019-11-25,Bronze
+375,Nina Miller,Canada,2020-09-03,Bronze
+376,Julia Davis,United States,2018-09-28,Bronze
+377,Ivan Harris,Australia,2018-12-23,Bronze
+378,Quinn Jones,France,2021-03-21,Bronze
+379,Rachel Thompson,United Kingdom,2019-06-03,Bronze
+380,Oscar Williams,Spain,2018-09-01,Silver
+381,Rachel Smith,Brazil,2017-07-13,Silver
+382,Ethan Harris,United Kingdom,2018-06-13,Bronze
+383,Laura Taylor,Canada,2016-08-06,Silver
+384,Nina Martin,Japan,2017-05-29,Silver
+385,Rachel White,Germany,2015-08-04,Bronze
+386,Fiona Miller,India,2017-07-02,Silver
+387,Ethan Harris,United States,2018-07-02,Silver
+388,Hannah Jones,Brazil,2022-10-15,Bronze
+389,Fiona Thomas,Australia,2018-11-05,Silver
+390,Tina Garcia,Canada,2019-02-11,Silver
+391,Bob Garcia,France,2023-02-01,Silver
+392,Diana Smith,India,2016-02-12,Silver
+393,Ivan Thompson,United States,2018-08-27,Silver
+394,Carlos Wilson,France,2022-05-24,Silver
+395,Fiona Harris,France,2020-06-22,Silver
+396,Ivan Young,United States,2021-07-29,Silver
+397,Ivan Harris,United Kingdom,2020-12-27,Gold
+398,Carlos Miller,Germany,2018-04-28,Silver
+399,Nina Jones,United Kingdom,2023-02-06,Bronze
+400,Nina Brown,France,2017-06-06,Bronze
+401,Oscar Miller,France,2020-04-17,Bronze
+402,Kevin Taylor,Australia,2022-09-25,Bronze
+403,Julia Thompson,United Kingdom,2017-12-22,Bronze
+404,Laura White,Brazil,2022-06-13,Bronze
+405,Rachel Johnson,Brazil,2017-10-28,Silver
+406,Ethan Miller,Spain,2019-10-23,Bronze
+407,Ethan Thompson,Australia,2022-11-18,Bronze
+408,Ivan Brown,Spain,2015-01-01,Silver
+409,Fiona White,Canada,2018-07-22,Silver
+410,Ivan Anderson,Japan,2018-11-30,Gold
+411,Steve Lee,Germany,2019-03-02,Bronze
+412,Nina Miller,France,2020-04-29,Gold
+413,Hannah Jackson,Canada,2017-04-04,Bronze
+414,Hannah Harris,United Kingdom,2017-01-10,Bronze
+415,Mike Davis,United States,2020-08-06,Bronze
+416,Bob Lee,Australia,2020-12-12,Bronze
+417,Alice Wilson,Germany,2021-01-17,Gold
+418,Mike Miller,Germany,2017-09-08,Bronze
+419,Fiona Thomas,Australia,2022-09-19,Bronze
+420,Paula Moore,Brazil,2017-12-18,Silver
+421,Tina Miller,Japan,2019-05-31,Bronze
+422,Kevin Jones,United Kingdom,2019-06-27,Bronze
+423,Hannah Moore,United States,2016-11-14,Gold
+424,Quinn Young,Brazil,2018-02-18,Silver
+425,Tina Miller,Spain,2017-04-13,Bronze
+426,Tina Thomas,Canada,2020-05-01,Gold
+427,Tina Miller,Australia,2017-06-15,Silver
+428,Kevin Thomas,Germany,2016-03-06,Silver
+429,Julia Jones,Japan,2016-06-30,Gold
+430,Oscar Williams,India,2021-01-15,Silver
+431,Fiona Jackson,Brazil,2015-09-09,Bronze
+432,Nina Williams,Spain,2016-01-13,Bronze
+433,Oscar Davis,Germany,2016-08-06,Bronze
+434,Oscar White,Australia,2021-08-12,Bronze
+435,Carlos Moore,Canada,2020-06-15,Bronze
+436,Fiona Smith,Canada,2018-10-31,Bronze
+437,Hannah White,Japan,2021-08-08,Silver
+438,Oscar Lee,United Kingdom,2022-10-21,Bronze
+439,Oscar Thomas,Germany,2018-01-24,Bronze
+440,Nina Johnson,Japan,2017-06-23,Bronze
+441,Oscar Young,India,2016-12-09,Bronze
+442,George Thompson,Spain,2015-11-09,Bronze
+443,Paula Miller,Australia,2019-09-12,Bronze
+444,Fiona Williams,United Kingdom,2020-08-24,Gold
+445,Rachel Brown,Japan,2016-08-04,Bronze
+446,Steve Martin,Brazil,2019-11-29,Bronze
+447,Diana Johnson,Australia,2022-09-09,Silver
+448,Tina White,France,2018-05-09,Bronze
+449,Nina Martin,Australia,2015-01-09,Bronze
+450,Julia White,Spain,2022-08-02,Bronze
+451,Steve Garcia,Spain,2017-08-16,Gold
+452,Mike Brown,Japan,2019-08-13,Gold
+453,Tina Johnson,India,2019-12-28,Silver
+454,Ethan Young,Japan,2021-01-19,Platinum
+455,Mike Davis,Japan,2023-03-19,Silver
+456,Oscar Jackson,France,2021-12-28,Bronze
+457,Hannah Anderson,Germany,2020-04-30,Bronze
+458,Alice Smith,Brazil,2019-01-19,Bronze
+459,Ivan Smith,India,2018-02-03,Bronze
+460,George Martin,France,2020-08-12,Silver
+461,Diana Williams,Brazil,2018-07-23,Gold
+462,Rachel Jones,United States,2022-03-15,Bronze
+463,Alice Harris,Brazil,2022-03-11,Gold
+464,Quinn Thompson,Japan,2016-05-21,Gold
+465,Fiona Anderson,Japan,2022-12-02,Bronze
+466,Nina Wilson,United States,2016-12-01,Silver
+467,Alice Jones,India,2015-04-18,Bronze
+468,Fiona Moore,Canada,2019-05-08,Bronze
+469,Nina Taylor,United Kingdom,2020-04-21,Silver
+470,Laura Thompson,Japan,2019-06-19,Bronze
+471,Fiona Thomas,Australia,2020-08-01,Gold
+472,Julia Miller,India,2020-12-10,Bronze
+473,Steve Garcia,France,2022-07-21,Silver
+474,Ivan Smith,Spain,2021-06-25,Silver
+475,Fiona Thomas,Spain,2015-11-15,Bronze
+476,Ivan Young,India,2019-02-05,Bronze
+477,Julia Garcia,Brazil,2017-05-08,Gold
+478,Steve Thompson,Canada,2015-08-15,Silver
+479,Oscar Smith,Australia,2018-05-13,Bronze
+480,Bob Lee,Germany,2019-11-10,Bronze
+481,Mike Taylor,Germany,2021-08-02,Platinum
+482,Oscar Lee,Canada,2020-04-14,Bronze
+483,Tina Williams,Japan,2019-08-06,Silver
+484,Paula Davis,United Kingdom,2023-02-22,Gold
+485,Alice Williams,Brazil,2021-05-19,Bronze
+486,Mike Thomas,United States,2015-08-03,Bronze
+487,Alice Smith,France,2022-09-22,Silver
+488,Julia Jones,France,2020-09-26,Bronze
+489,Hannah Taylor,Australia,2017-01-10,Bronze
+490,Tina Moore,United Kingdom,2016-11-07,Platinum
+491,Kevin Thomas,Germany,2022-02-07,Silver
+492,Ethan Smith,Germany,2019-01-18,Bronze
+493,Alice Young,Canada,2016-03-09,Bronze
+494,George Young,Japan,2018-09-27,Bronze
+495,Fiona Taylor,Australia,2016-02-04,Bronze
+496,Mike Taylor,Japan,2023-01-13,Silver
+497,Hannah Jackson,Canada,2021-10-01,Gold
+498,Alice Lee,Germany,2019-07-28,Bronze
+499,Tina Harris,Australia,2022-08-02,Platinum
+500,Ethan Johnson,France,2022-12-24,Gold
+501,Julia Miller,United States,2019-07-19,Bronze
+502,Hannah Garcia,India,2020-08-11,Gold
+503,Quinn Young,Spain,2018-04-02,Bronze
+504,Tina Young,United States,2019-08-25,Silver
+505,Rachel Brown,India,2021-05-07,Bronze
+506,Paula Williams,United States,2017-11-22,Bronze
+507,Bob Harris,United Kingdom,2022-05-14,Bronze
+508,Nina Wilson,Japan,2021-01-22,Platinum
+509,Bob Thomas,India,2020-12-01,Bronze
+510,Kevin Thompson,United States,2017-02-14,Silver
+511,Ethan White,Brazil,2021-12-05,Silver
+512,Kevin Miller,India,2020-08-08,Bronze
+513,Quinn Lee,Australia,2017-05-19,Silver
+514,Ivan Garcia,Spain,2020-01-24,Silver
+515,Bob Davis,Spain,2020-03-09,Silver
+516,Paula Miller,France,2020-10-05,Bronze
+517,Alice Wilson,United Kingdom,2017-11-15,Silver
+518,George Garcia,Japan,2023-03-05,Silver
+519,Tina Moore,Canada,2016-05-19,Silver
+520,Ivan Jones,France,2016-07-31,Gold
+521,Bob Thompson,Japan,2019-02-01,Silver
+522,Fiona Miller,France,2017-11-29,Silver
+523,Quinn Williams,Spain,2017-07-27,Bronze
+524,Fiona Williams,United Kingdom,2018-03-12,Bronze
+525,Julia Thomas,Brazil,2018-07-13,Gold
+526,Paula Davis,Germany,2022-11-14,Bronze
+527,Ivan Brown,Australia,2019-09-16,Bronze
+528,George Williams,Germany,2018-02-20,Bronze
+529,Diana Young,Brazil,2021-06-02,Platinum
+530,Ivan Harris,Japan,2016-04-12,Bronze
+531,Bob Davis,Australia,2022-02-20,Silver
+532,Bob Johnson,Australia,2019-04-21,Silver
+533,Ivan Brown,Brazil,2016-10-01,Bronze
+534,Ivan Johnson,Japan,2021-05-03,Gold
+535,Paula Taylor,Canada,2016-04-23,Bronze
+536,Fiona Thomas,France,2023-01-21,Silver
+537,Diana Taylor,United States,2021-03-08,Gold
+538,Steve Jones,Germany,2021-11-17,Silver
+539,Bob Young,Germany,2016-08-15,Bronze
+540,Hannah Miller,Brazil,2015-05-06,Bronze
+541,Kevin Johnson,France,2022-04-09,Platinum
+542,Nina Smith,Brazil,2016-11-04,Silver
+543,George Johnson,Japan,2016-07-25,Silver
+544,George Wilson,Australia,2016-05-20,Bronze
+545,Laura Brown,Spain,2019-12-14,Silver
+546,Ethan Thompson,Australia,2018-09-26,Silver
+547,Paula Lee,France,2016-05-04,Bronze
+548,Bob Jones,Brazil,2020-10-02,Bronze
+549,Julia Thompson,Brazil,2019-09-14,Silver
+550,Laura Thomas,United Kingdom,2016-06-29,Silver
+551,Bob Jackson,Spain,2018-11-28,Gold
+552,Fiona Brown,United Kingdom,2015-05-26,Silver
+553,Tina Taylor,France,2015-11-20,Bronze
+554,Diana Taylor,Japan,2019-05-20,Bronze
+555,Rachel Taylor,Spain,2019-12-23,Silver
+556,George Wilson,United Kingdom,2016-04-09,Platinum
+557,Ethan Lee,Germany,2022-02-01,Silver
+558,Quinn Williams,United States,2018-01-11,Bronze
+559,George Thompson,Australia,2022-01-10,Bronze
+560,Oscar Lee,Japan,2018-08-01,Silver
+561,Laura Moore,Australia,2015-06-26,Gold
+562,Kevin Taylor,Canada,2021-01-23,Silver
+563,Kevin Lee,India,2022-02-02,Silver
+564,Bob Thomas,Spain,2015-07-26,Bronze
+565,Steve Thompson,Brazil,2020-10-10,Silver
+566,Tina Young,Spain,2018-03-28,Silver
+567,Rachel Moore,Canada,2015-01-05,Bronze
+568,Ethan Thomas,Spain,2015-05-24,Silver
+569,Laura Lee,Canada,2015-07-18,Bronze
+570,Ethan Brown,Spain,2020-11-26,Silver
+571,Alice Garcia,United States,2020-07-28,Bronze
+572,George Johnson,India,2020-08-22,Gold
+573,Kevin Davis,United States,2016-10-28,Platinum
+574,Hannah Miller,France,2019-05-06,Silver
+575,Oscar White,United States,2018-11-16,Bronze
+576,Paula Young,Germany,2018-12-18,Bronze
+577,Julia Brown,Germany,2022-10-22,Bronze
+578,Diana Davis,Germany,2019-03-11,Bronze
+579,Hannah Jones,Australia,2020-10-31,Silver
+580,Quinn Wilson,United States,2018-05-29,Silver
+581,Nina Garcia,Brazil,2018-02-01,Bronze
+582,Diana Jones,United Kingdom,2015-12-28,Silver
+583,Kevin Moore,Canada,2018-06-23,Silver
+584,Quinn Anderson,United States,2016-08-19,Silver
+585,Nina Williams,United States,2022-08-11,Silver
+586,Mike Thompson,United Kingdom,2015-01-15,Bronze
+587,Hannah Harris,Brazil,2022-08-10,Silver
+588,Paula Davis,United States,2021-12-13,Silver
+589,Kevin Brown,Canada,2022-02-11,Gold
+590,Mike Smith,Brazil,2017-02-18,Gold
+591,Fiona Johnson,Canada,2015-06-12,Bronze
+592,Fiona Moore,United States,2018-03-08,Bronze
+593,Alice Brown,Germany,2015-11-05,Bronze
+594,Kevin Jackson,France,2022-05-10,Silver
+595,George Thomas,United Kingdom,2018-01-26,Bronze
+596,Bob Williams,Germany,2021-09-23,Bronze
+597,Hannah Williams,Germany,2020-12-06,Platinum
+598,Rachel Jackson,Japan,2020-02-16,Bronze
+599,Mike Moore,Japan,2021-11-04,Platinum
+600,Quinn Miller,Japan,2017-09-18,Bronze
+601,Ethan Johnson,Spain,2018-03-02,Silver
+602,Diana Jackson,India,2018-12-23,Bronze
+603,Steve Young,Spain,2015-01-07,Silver
+604,Paula Johnson,United Kingdom,2018-05-31,Bronze
+605,Quinn Harris,United States,2022-01-17,Silver
+606,Paula Davis,Spain,2016-06-14,Bronze
+607,Mike White,India,2017-08-05,Bronze
+608,Mike Wilson,Germany,2018-09-29,Silver
+609,Quinn Martin,Germany,2017-08-31,Bronze
+610,Ivan Miller,Spain,2019-08-11,Gold
+611,Nina Moore,Brazil,2022-08-08,Gold
+612,George Jones,France,2020-07-08,Bronze
+613,Steve Garcia,Spain,2016-11-09,Silver
+614,Hannah Davis,Germany,2018-06-06,Gold
+615,Mike Williams,India,2019-07-09,Silver
+616,Julia Thomas,United States,2019-01-04,Bronze
+617,Ethan White,Canada,2019-02-28,Bronze
+618,Laura Jackson,Spain,2019-01-08,Silver
+619,Fiona Thomas,United Kingdom,2019-10-26,Silver
+620,Diana Miller,Canada,2017-06-30,Silver
+621,Quinn Williams,Germany,2018-10-20,Silver
+622,Bob Garcia,Australia,2019-05-25,Bronze
+623,Tina White,Canada,2020-04-30,Bronze
+624,Julia Moore,United States,2018-05-02,Bronze
+625,Diana Moore,Germany,2022-10-09,Silver
+626,Kevin Thomas,Germany,2019-09-27,Bronze
+627,Mike Johnson,Canada,2019-07-13,Bronze
+628,Alice Smith,Brazil,2016-10-18,Bronze
+629,Mike Thomas,United States,2019-01-02,Silver
+630,George Williams,France,2021-12-01,Silver
+631,Quinn Miller,Brazil,2018-03-08,Bronze
+632,Mike Lee,France,2020-07-12,Bronze
+633,Paula Garcia,Canada,2016-12-22,Gold
+634,Fiona Harris,India,2018-07-01,Silver
+635,Carlos Garcia,India,2022-06-25,Bronze
+636,Nina Brown,Germany,2020-08-29,Bronze
+637,Diana Garcia,Canada,2023-01-03,Silver
+638,Rachel White,Brazil,2021-10-31,Silver
+639,Julia Martin,United Kingdom,2021-07-15,Bronze
+640,Bob Jackson,India,2016-05-13,Bronze
+641,Oscar Anderson,Japan,2016-01-05,Silver
+642,Julia Johnson,India,2019-10-09,Bronze
+643,George Jones,Australia,2020-11-04,Gold
+644,Quinn Wilson,India,2015-10-21,Bronze
+645,Fiona Wilson,Brazil,2015-11-01,Gold
+646,Mike Anderson,Japan,2021-11-26,Bronze
+647,Rachel Jackson,Australia,2015-10-12,Gold
+648,Alice Taylor,Canada,2016-03-30,Bronze
+649,Ethan Martin,United States,2023-03-06,Bronze
+650,Nina Moore,Brazil,2020-06-03,Bronze
+651,Nina Young,Japan,2016-07-21,Gold
+652,Ethan Davis,France,2019-04-07,Bronze
+653,Alice Thomas,Australia,2017-09-26,Silver
+654,Carlos Miller,Brazil,2021-01-21,Silver
+655,Mike Jones,France,2018-09-04,Bronze
+656,Hannah Anderson,United Kingdom,2016-10-28,Silver
+657,Alice Moore,Australia,2021-02-10,Silver
+658,Nina Davis,India,2018-12-21,Gold
+659,Laura Jones,Canada,2015-07-16,Bronze
+660,Bob Johnson,Canada,2018-07-18,Silver
+661,Alice Thomas,Japan,2019-07-27,Bronze
+662,Rachel Martin,United States,2021-06-28,Bronze
+663,Fiona Wilson,France,2021-06-30,Silver
+664,Quinn Williams,Australia,2020-11-26,Silver
+665,Hannah Garcia,Germany,2019-03-15,Gold
+666,Bob Garcia,United Kingdom,2016-03-15,Bronze
+667,Mike Thomas,United States,2016-10-20,Gold
+668,Tina Garcia,India,2016-01-19,Bronze
+669,Quinn Lee,Japan,2018-12-04,Gold
+670,Steve Brown,Brazil,2021-03-10,Bronze
+671,Laura Wilson,India,2022-11-01,Bronze
+672,Mike Williams,United Kingdom,2018-07-18,Bronze
+673,Hannah Davis,Japan,2019-05-11,Silver
+674,Julia Moore,Spain,2017-03-16,Bronze
+675,Julia Davis,United States,2017-08-11,Bronze
+676,Ethan Jackson,Brazil,2021-02-19,Silver
+677,Ivan Taylor,Japan,2019-11-14,Silver
+678,Carlos Brown,Australia,2018-12-05,Bronze
+679,Carlos Jackson,United States,2021-09-08,Platinum
+680,Julia Johnson,Australia,2019-12-03,Silver
+681,Nina Jackson,United States,2023-03-18,Platinum
+682,Paula Thompson,Germany,2022-08-01,Platinum
+683,Mike Brown,Canada,2022-01-17,Bronze
+684,Alice White,Canada,2021-01-25,Silver
+685,Ethan White,Spain,2020-08-01,Silver
+686,Ethan Harris,France,2015-02-21,Bronze
+687,Steve Lee,Japan,2022-01-03,Silver
+688,Steve Moore,Japan,2019-03-08,Silver
+689,Ethan Brown,Brazil,2018-04-11,Gold
+690,Mike Taylor,India,2021-07-11,Gold
+691,Rachel Thompson,Canada,2017-03-11,Gold
+692,Nina Thompson,Canada,2018-05-27,Gold
+693,Rachel Smith,Japan,2020-11-10,Bronze
+694,Julia Anderson,Brazil,2021-06-15,Bronze
+695,Laura White,France,2021-03-14,Gold
+696,Kevin Jackson,Brazil,2021-06-25,Gold
+697,Paula Jones,India,2015-11-26,Bronze
+698,Nina Williams,France,2022-04-11,Bronze
+699,Hannah Garcia,Brazil,2019-07-08,Bronze
+700,Carlos Thomas,Spain,2018-03-09,Silver
+701,Paula Miller,Spain,2020-01-21,Bronze
+702,Oscar Thomas,Australia,2021-07-17,Gold
+703,Julia Harris,United Kingdom,2020-12-24,Silver
+704,Carlos Harris,Australia,2017-07-18,Bronze
+705,Steve Jackson,United Kingdom,2022-02-08,Silver
+706,Tina White,Australia,2016-04-09,Bronze
+707,Paula Taylor,Japan,2017-06-12,Gold
+708,Julia Wilson,United States,2019-08-17,Bronze
+709,Diana Johnson,Spain,2016-02-19,Gold
+710,Fiona Jackson,Spain,2019-08-29,Silver
+711,Nina Harris,Germany,2020-02-07,Silver
+712,Quinn Davis,France,2016-12-18,Gold
+713,Fiona Thomas,France,2020-07-08,Bronze
+714,Steve Jackson,India,2016-12-15,Bronze
+715,Nina Young,India,2015-10-20,Silver
+716,Bob Johnson,Japan,2020-04-20,Silver
+717,Tina White,Germany,2019-09-25,Bronze
+718,Laura Jackson,Spain,2015-12-20,Silver
+719,Oscar Smith,United Kingdom,2016-10-07,Silver
+720,Rachel Miller,Spain,2017-11-12,Silver
+721,Julia Williams,Japan,2018-02-03,Bronze
+722,Paula Brown,Australia,2015-06-22,Bronze
+723,Mike Anderson,Germany,2021-02-25,Bronze
+724,George Johnson,United States,2017-12-02,Bronze
+725,Paula Martin,Japan,2020-12-27,Gold
+726,Kevin Lee,Germany,2016-09-06,Bronze
+727,Ethan Johnson,United States,2019-04-26,Gold
+728,Laura Lee,Brazil,2022-04-02,Bronze
+729,Diana Moore,Canada,2016-07-09,Silver
+730,Carlos Martin,United States,2017-05-13,Gold
+731,Ethan Smith,Japan,2021-02-28,Bronze
+732,Fiona Williams,Brazil,2015-04-23,Bronze
+733,Nina Jackson,India,2020-04-19,Silver
+734,Alice Thompson,United Kingdom,2020-06-25,Silver
+735,Ethan Brown,United Kingdom,2019-11-12,Bronze
+736,Ethan Davis,United States,2017-12-22,Bronze
+737,Kevin Martin,France,2019-06-16,Gold
+738,Tina Lee,India,2015-01-10,Silver
+739,Diana Jackson,Japan,2019-01-06,Silver
+740,Diana Davis,Japan,2019-07-28,Silver
+741,Fiona Jones,United States,2021-02-02,Bronze
+742,Carlos Smith,Germany,2016-02-16,Bronze
+743,Alice Anderson,United States,2021-05-27,Gold
+744,Hannah Lee,Spain,2017-12-01,Bronze
+745,George Moore,India,2021-02-18,Bronze
+746,Ivan Thomas,United States,2022-07-16,Platinum
+747,Rachel Jones,Canada,2022-10-22,Bronze
+748,Alice White,Spain,2022-09-29,Gold
+749,George Moore,Canada,2018-03-13,Silver
+750,Oscar Anderson,Japan,2019-10-25,Gold
+751,Carlos Lee,Japan,2017-01-31,Bronze
+752,Fiona Davis,Spain,2017-01-09,Silver
+753,Alice Brown,Spain,2020-06-02,Gold
+754,Carlos Johnson,France,2016-07-05,Gold
+755,Mike Taylor,India,2022-12-03,Bronze
+756,Rachel White,Germany,2019-03-31,Silver
+757,Bob Taylor,United Kingdom,2023-03-07,Bronze
+758,Hannah Martin,India,2017-05-26,Gold
+759,Bob Lee,United States,2018-01-13,Bronze
+760,Quinn Williams,Japan,2022-06-18,Gold
+761,Fiona Lee,United Kingdom,2021-09-26,Gold
+762,Alice Wilson,Germany,2015-05-16,Bronze
+763,Rachel Anderson,Spain,2015-09-09,Silver
+764,Fiona Harris,France,2016-03-30,Bronze
+765,Rachel White,Japan,2018-12-09,Gold
+766,Paula Garcia,Germany,2018-01-29,Bronze
+767,Quinn Thomas,Australia,2023-02-28,Bronze
+768,Hannah Martin,Canada,2016-05-26,Bronze
+769,Steve Anderson,Spain,2021-10-11,Silver
+770,Fiona Garcia,Germany,2017-12-19,Silver
+771,Ivan Wilson,Canada,2015-04-23,Silver
+772,Mike Jackson,United Kingdom,2018-11-16,Silver
+773,Fiona Jones,Germany,2015-08-04,Gold
+774,Paula Thomas,Canada,2021-01-22,Bronze
+775,Rachel Miller,India,2016-11-19,Bronze
+776,Kevin Young,United Kingdom,2018-04-21,Bronze
+777,Carlos Brown,Brazil,2016-11-29,Bronze
+778,Mike Johnson,Australia,2015-11-12,Silver
+779,Bob Martin,United States,2021-03-12,Bronze
+780,Oscar Martin,United States,2020-11-25,Bronze
+781,Diana Miller,Australia,2017-07-06,Platinum
+782,Julia White,France,2016-09-04,Platinum
+783,Ethan Johnson,Australia,2020-03-16,Bronze
+784,Hannah Jackson,Australia,2021-05-18,Silver
+785,Steve Garcia,Australia,2020-05-12,Bronze
+786,Fiona Harris,Spain,2016-10-05,Silver
+787,Ivan Jackson,Spain,2021-11-25,Silver
+788,Carlos Williams,Brazil,2016-08-10,Gold
+789,Hannah Harris,United States,2017-01-11,Silver
+790,Carlos Thomas,Brazil,2016-01-14,Bronze
+791,Paula Garcia,Brazil,2015-08-08,Bronze
+792,Julia Williams,United States,2016-11-09,Bronze
+793,Diana Smith,India,2017-04-25,Bronze
+794,George Garcia,United States,2021-06-28,Bronze
+795,Hannah Brown,Spain,2017-08-31,Silver
+796,Ivan Williams,Australia,2017-10-12,Platinum
+797,Carlos Martin,Spain,2016-11-17,Bronze
+798,Paula Davis,United Kingdom,2017-08-01,Silver
+799,Ethan Young,India,2020-10-28,Bronze
+800,Fiona Martin,Brazil,2020-03-04,Bronze
+801,Bob Moore,Germany,2017-08-09,Silver
+802,Mike Martin,United States,2021-08-03,Bronze
+803,Paula White,Spain,2019-10-15,Bronze
+804,Oscar White,United States,2021-10-19,Gold
+805,Quinn Anderson,Germany,2019-03-09,Bronze
+806,Steve Lee,United Kingdom,2017-02-09,Gold
+807,Kevin Moore,United Kingdom,2017-07-13,Bronze
+808,Oscar Wilson,Canada,2021-01-09,Silver
+809,Kevin Brown,Spain,2019-01-08,Bronze
+810,Fiona Davis,France,2017-12-01,Bronze
+811,Fiona Anderson,India,2022-04-26,Silver
+812,Laura Taylor,United Kingdom,2015-02-08,Silver
+813,Tina Jones,United Kingdom,2019-12-23,Bronze
+814,Alice Martin,Brazil,2018-01-25,Silver
+815,Hannah Williams,Australia,2021-10-01,Gold
+816,Tina Jackson,Canada,2022-07-24,Gold
+817,Alice Thompson,Brazil,2022-08-19,Bronze
+818,Kevin Wilson,Brazil,2020-07-24,Platinum
+819,Kevin Davis,India,2021-02-18,Bronze
+820,Oscar Jackson,India,2017-07-09,Bronze
+821,Ethan Wilson,Brazil,2020-11-16,Bronze
+822,Diana Smith,United Kingdom,2019-10-16,Bronze
+823,Tina Martin,Spain,2020-05-21,Bronze
+824,Julia Jackson,Spain,2017-04-05,Bronze
+825,Rachel Williams,Australia,2022-08-08,Silver
+826,Mike Moore,Spain,2016-04-15,Silver
+827,Alice Harris,United States,2022-02-02,Bronze
+828,Ivan Taylor,United Kingdom,2021-09-20,Silver
+829,Julia Young,Germany,2017-09-04,Silver
+830,Mike Jackson,United Kingdom,2021-12-01,Bronze
+831,Paula Wilson,India,2018-04-16,Bronze
+832,Kevin Garcia,Canada,2019-08-03,Gold
+833,Oscar Brown,Spain,2017-06-11,Bronze
+834,Julia Harris,France,2022-09-17,Silver
+835,Quinn Harris,Australia,2017-02-27,Bronze
+836,Steve Thompson,France,2016-10-25,Silver
+837,George Taylor,Spain,2023-02-10,Gold
+838,Laura Brown,France,2017-02-20,Bronze
+839,Nina Lee,Australia,2018-01-04,Bronze
+840,Hannah Garcia,Canada,2019-08-29,Silver
+841,Laura Anderson,United Kingdom,2019-09-10,Silver
+842,Rachel Martin,France,2022-05-14,Gold
+843,Paula Harris,Germany,2015-08-08,Bronze
+844,Steve Harris,United Kingdom,2020-08-18,Silver
+845,Ivan Jones,Brazil,2016-03-31,Silver
+846,Tina Jackson,Australia,2019-09-01,Bronze
+847,Laura Anderson,France,2021-09-19,Gold
+848,Fiona Martin,Canada,2015-03-17,Gold
+849,Ivan Harris,Japan,2021-09-14,Bronze
+850,Laura Wilson,Canada,2015-01-02,Bronze
+851,Quinn Lee,Spain,2023-02-28,Bronze
+852,Kevin Miller,Germany,2020-10-11,Bronze
+853,Steve Davis,United States,2022-01-07,Gold
+854,Alice Williams,United Kingdom,2022-04-06,Silver
+855,Rachel Harris,Germany,2016-04-09,Silver
+856,Steve Thompson,France,2023-03-05,Bronze
+857,Fiona Johnson,United States,2018-12-20,Platinum
+858,Kevin White,Germany,2022-06-19,Bronze
+859,Nina Brown,Japan,2015-07-15,Bronze
+860,Nina Williams,Spain,2016-03-18,Gold
+861,Hannah Jackson,Canada,2015-08-31,Silver
+862,Steve Taylor,India,2015-05-12,Silver
+863,Laura Williams,India,2018-06-25,Bronze
+864,Paula Harris,France,2018-12-21,Bronze
+865,Diana Martin,India,2018-05-21,Silver
+866,Julia Williams,Japan,2017-07-05,Bronze
+867,Quinn Taylor,Australia,2019-07-23,Gold
+868,Hannah Davis,Japan,2019-07-28,Gold
+869,Alice Garcia,France,2018-10-06,Bronze
+870,Carlos Harris,Spain,2022-05-17,Bronze
+871,Diana Brown,India,2016-12-15,Platinum
+872,Steve Williams,France,2015-04-23,Gold
+873,Kevin Williams,United States,2016-09-27,Bronze
+874,Tina Smith,Australia,2022-03-10,Silver
+875,Ivan White,Spain,2019-09-15,Silver
+876,Kevin Thomas,Germany,2017-09-23,Platinum
+877,George Johnson,Spain,2017-11-12,Bronze
+878,Oscar Thomas,India,2020-11-27,Bronze
+879,Ivan Miller,Canada,2022-03-19,Bronze
+880,Ivan Taylor,India,2016-09-29,Silver
+881,Ivan Thomas,France,2020-05-07,Bronze
+882,Hannah Smith,United States,2017-07-01,Silver
+883,Ivan White,United Kingdom,2019-04-11,Silver
+884,Ethan Davis,Canada,2022-04-25,Bronze
+885,Hannah Johnson,United Kingdom,2016-05-30,Silver
+886,Carlos Young,Canada,2015-02-18,Silver
+887,Diana Williams,Germany,2021-08-04,Bronze
+888,Bob Harris,India,2016-02-23,Silver
+889,Julia Brown,Canada,2019-05-02,Bronze
+890,Nina Davis,Brazil,2015-07-01,Bronze
+891,Ivan Davis,Brazil,2017-03-10,Silver
+892,Oscar Anderson,United Kingdom,2017-11-11,Bronze
+893,Hannah Taylor,Australia,2017-12-12,Bronze
+894,Fiona Jones,Germany,2022-08-21,Silver
+895,Julia White,Japan,2019-05-05,Bronze
+896,Tina Harris,Canada,2021-06-22,Bronze
+897,Carlos Jones,Japan,2016-03-17,Silver
+898,Laura Thompson,United Kingdom,2019-02-19,Bronze
+899,Diana Thompson,Australia,2021-12-23,Gold
+900,Julia Johnson,United States,2018-06-27,Platinum
+901,Tina Thomas,Australia,2019-11-16,Bronze
+902,Ivan Thomas,Spain,2019-02-20,Bronze
+903,Ivan Lee,Australia,2019-03-28,Silver
+904,Steve White,Brazil,2019-01-16,Bronze
+905,Carlos Garcia,France,2018-04-09,Bronze
+906,Carlos Taylor,Germany,2017-01-02,Silver
+907,Julia Smith,United Kingdom,2019-01-03,Bronze
+908,Nina Garcia,Spain,2023-01-20,Gold
+909,Fiona Smith,United Kingdom,2016-08-28,Silver
+910,Oscar Jones,Germany,2015-06-22,Silver
+911,Hannah Wilson,Germany,2017-02-06,Bronze
+912,Ethan Moore,United Kingdom,2022-07-20,Silver
+913,Laura White,Brazil,2023-02-27,Silver
+914,George Moore,United Kingdom,2022-07-04,Silver
+915,Oscar Jones,France,2015-06-11,Silver
+916,Oscar Davis,Australia,2020-07-12,Bronze
+917,George Thomas,United Kingdom,2020-08-14,Bronze
+918,Ivan Young,Brazil,2020-10-06,Gold
+919,Steve Anderson,France,2022-08-28,Bronze
+920,Fiona Taylor,India,2018-07-29,Gold
+921,Kevin Taylor,Spain,2021-05-25,Bronze
+922,Kevin Wilson,United Kingdom,2018-04-09,Bronze
+923,Bob Moore,France,2021-02-20,Bronze
+924,Julia Davis,United States,2021-01-23,Silver
+925,Rachel Thomas,United States,2019-10-12,Gold
+926,Diana Moore,Canada,2016-09-23,Bronze
+927,Bob Young,Japan,2021-06-29,Bronze
+928,Paula Taylor,Brazil,2021-06-08,Silver
+929,Diana Taylor,Australia,2015-03-10,Silver
+930,Alice Jackson,France,2021-06-04,Bronze
+931,Julia Taylor,Canada,2018-11-23,Bronze
+932,Kevin Garcia,Spain,2019-05-13,Bronze
+933,Paula Johnson,Canada,2020-04-25,Bronze
+934,Quinn Johnson,Spain,2021-03-14,Bronze
+935,Mike Thompson,France,2018-07-05,Bronze
+936,Diana Martin,France,2018-02-06,Bronze
+937,Alice Garcia,Brazil,2019-01-24,Bronze
+938,Paula Johnson,United Kingdom,2018-02-04,Bronze
+939,Steve Taylor,United States,2017-09-11,Silver
+940,Nina Young,France,2019-04-09,Silver
+941,Julia Johnson,Germany,2016-02-25,Bronze
+942,Ivan Anderson,Canada,2021-05-26,Silver
+943,Julia Thomas,United States,2019-06-05,Bronze
+944,Julia Young,France,2015-03-26,Silver
+945,Nina Jackson,France,2018-06-23,Silver
+946,Nina Thomas,United States,2019-03-12,Silver
+947,Paula White,France,2023-02-03,Silver
+948,Ivan Anderson,Australia,2022-02-24,Bronze
+949,Nina Garcia,France,2017-03-01,Bronze
+950,George Williams,Germany,2022-09-11,Bronze
+951,Bob Thompson,United Kingdom,2016-04-26,Silver
+952,Bob Miller,India,2020-06-26,Bronze
+953,Rachel Smith,United States,2020-01-02,Silver
+954,Rachel Lee,India,2016-01-21,Gold
+955,Mike Thompson,Brazil,2015-02-14,Silver
+956,Nina Thomas,Japan,2020-09-17,Silver
+957,Julia Miller,France,2015-12-29,Bronze
+958,Bob Lee,India,2017-05-25,Bronze
+959,Rachel Williams,Germany,2020-07-01,Bronze
+960,Julia Lee,United States,2016-03-18,Gold
+961,Ivan Johnson,Australia,2018-06-02,Bronze
+962,Tina Davis,Canada,2019-03-23,Platinum
+963,Quinn Lee,India,2017-12-22,Bronze
+964,Hannah Martin,Canada,2017-10-13,Silver
+965,George Harris,Germany,2019-02-14,Silver
+966,Alice Williams,Australia,2017-08-08,Silver
+967,Laura Martin,Canada,2021-05-28,Bronze
+968,Alice Johnson,France,2017-01-17,Gold
+969,Bob Garcia,United States,2016-04-02,Gold
+970,Tina Jones,Japan,2022-05-12,Silver
+971,Mike Johnson,United Kingdom,2020-07-04,Bronze
+972,Laura Taylor,Australia,2019-01-28,Bronze
+973,Laura Brown,India,2016-01-12,Gold
+974,Oscar Thomas,United Kingdom,2018-05-17,Bronze
+975,Nina Jones,Canada,2018-06-06,Bronze
+976,Paula Harris,United States,2017-11-19,Silver
+977,Carlos Williams,United States,2020-08-15,Bronze
+978,Fiona Thomas,Canada,2021-12-06,Bronze
+979,Kevin Young,Brazil,2017-11-25,Gold
+980,Quinn Young,Australia,2019-07-16,Bronze
+981,Laura Jones,Brazil,2018-10-19,Silver
+982,Carlos White,Brazil,2021-07-20,Gold
+983,Alice Anderson,France,2019-12-15,Bronze
+984,Laura Jackson,Australia,2019-04-26,Bronze
+985,George Harris,France,2017-11-20,Bronze
+986,Julia Thompson,India,2021-10-25,Bronze
+987,Bob Smith,United States,2015-04-11,Bronze
+988,Fiona Smith,United Kingdom,2016-06-26,Bronze
+989,Mike Smith,Japan,2019-06-18,Platinum
+990,Ethan Anderson,Spain,2019-02-26,Platinum
+991,Paula Thompson,Brazil,2018-04-26,Bronze
+992,Diana Jones,India,2018-06-26,Silver
+993,Fiona Williams,Brazil,2016-12-19,Platinum
+994,Paula Wilson,Germany,2015-11-15,Platinum
+995,Tina Wilson,United States,2022-05-24,Silver
+996,Julia Harris,India,2023-02-12,Silver
+997,Carlos Miller,Japan,2020-05-19,Bronze
+998,Carlos Jackson,India,2018-04-21,Silver
+999,Quinn Young,Spain,2022-03-20,Bronze
+1000,Ethan Thomas,France,2022-09-27,Silver
+1001,Ethan White,Spain,2018-06-17,Bronze
+1002,Laura Anderson,United States,2021-08-15,Bronze
+1003,George Miller,United States,2021-10-07,Gold
+1004,Paula Johnson,France,2020-10-06,Bronze
+1005,Ivan Garcia,Spain,2021-02-17,Bronze
+1006,Ethan Harris,United States,2018-04-11,Silver
+1007,Hannah Wilson,Canada,2018-06-06,Gold
+1008,Mike Miller,Canada,2019-04-18,Bronze
+1009,Ivan Young,Japan,2018-10-17,Silver
+1010,Hannah Brown,United Kingdom,2015-03-01,Bronze
+1011,Laura Jones,Germany,2023-01-25,Bronze
+1012,Quinn Williams,Australia,2021-07-23,Bronze
+1013,Rachel Thompson,United Kingdom,2016-11-02,Bronze
+1014,Rachel Martin,Japan,2019-04-23,Bronze
+1015,Rachel Garcia,France,2016-08-29,Bronze
+1016,Laura Brown,United Kingdom,2017-10-06,Silver
+1017,Kevin Garcia,Germany,2018-08-14,Silver
+1018,Steve Moore,Australia,2020-01-16,Bronze
+1019,Carlos Harris,Japan,2021-02-13,Silver
+1020,Bob Williams,France,2016-10-10,Bronze
+1021,Bob Harris,France,2015-08-21,Silver
+1022,Julia Williams,Canada,2017-01-09,Gold
+1023,Oscar Anderson,Brazil,2018-02-03,Silver
+1024,Ivan Anderson,United Kingdom,2019-12-14,Silver
+1025,Hannah Miller,United States,2015-10-03,Bronze
+1026,Ivan Martin,Brazil,2019-05-26,Bronze
+1027,Quinn Williams,Australia,2021-04-26,Bronze
+1028,Mike Anderson,Australia,2022-02-18,Silver
+1029,Carlos White,Germany,2021-04-03,Bronze
+1030,Ethan Williams,France,2019-11-14,Bronze
+1031,Diana Harris,United Kingdom,2018-05-30,Gold
+1032,Fiona Garcia,Germany,2021-10-23,Platinum
+1033,Julia Taylor,France,2016-02-09,Silver
+1034,Kevin Williams,Japan,2018-03-01,Silver
+1035,Diana Thompson,United States,2018-09-27,Bronze
+1036,Alice Smith,India,2018-08-24,Silver
+1037,Quinn Smith,Spain,2018-01-24,Silver
+1038,Alice White,Spain,2019-06-18,Silver
+1039,Tina Young,United States,2022-01-22,Silver
+1040,Steve Thompson,Spain,2019-10-11,Bronze
+1041,Steve Williams,France,2016-02-17,Bronze
+1042,Paula Smith,India,2020-02-25,Silver
+1043,Carlos Taylor,Brazil,2017-12-04,Silver
+1044,Diana Jackson,Brazil,2015-10-03,Bronze
+1045,Kevin Jackson,Brazil,2015-07-21,Silver
+1046,Quinn Jackson,Japan,2020-07-09,Gold
+1047,Rachel Thompson,Australia,2016-04-29,Silver
+1048,Rachel Garcia,United States,2017-04-04,Platinum
+1049,Laura Jones,India,2019-02-07,Bronze
+1050,Julia Johnson,United Kingdom,2018-10-13,Gold
+1051,Julia Williams,Australia,2015-03-16,Bronze
+1052,Steve Thompson,Australia,2016-01-02,Bronze
+1053,Rachel Williams,United Kingdom,2019-04-08,Silver
+1054,Paula Thompson,Brazil,2017-03-28,Bronze
+1055,Bob Thompson,Australia,2016-04-23,Silver
+1056,Tina Thomas,Japan,2020-01-29,Bronze
+1057,Diana Thomas,Spain,2018-07-20,Bronze
+1058,Ethan Miller,United Kingdom,2017-04-02,Silver
+1059,Julia Garcia,Japan,2021-04-13,Bronze
+1060,Mike Young,Spain,2018-11-10,Bronze
+1061,Hannah Lee,Australia,2020-03-15,Bronze
+1062,Diana Jackson,India,2018-04-12,Bronze
+1063,Ethan Garcia,Canada,2022-01-25,Gold
+1064,Fiona Davis,India,2019-12-29,Gold
+1065,Rachel Lee,France,2015-07-01,Bronze
+1066,Diana Moore,Brazil,2019-05-27,Gold
+1067,Bob Wilson,United States,2021-06-08,Bronze
+1068,Fiona Jackson,Germany,2021-04-26,Platinum
+1069,Ethan Anderson,Spain,2022-12-22,Bronze
+1070,Oscar Jackson,Germany,2016-05-01,Gold
+1071,Steve Thompson,Australia,2017-03-27,Bronze
+1072,Oscar Jones,Brazil,2016-07-10,Silver
+1073,Bob Jackson,Japan,2020-03-11,Bronze
+1074,Ivan Young,United States,2019-01-30,Gold
+1075,Paula Miller,United States,2017-09-12,Bronze
+1076,Hannah Harris,Canada,2019-03-14,Platinum
+1077,Bob Martin,India,2017-04-14,Bronze
+1078,Mike Thompson,Germany,2021-04-27,Bronze
+1079,Diana White,United States,2018-02-13,Gold
+1080,Nina Harris,Germany,2021-07-19,Bronze
+1081,Oscar Lee,United Kingdom,2021-07-21,Gold
+1082,Nina Miller,Brazil,2022-10-12,Silver
+1083,Alice Johnson,Canada,2020-01-07,Bronze
+1084,Fiona Martin,India,2021-03-30,Silver
+1085,George Young,Brazil,2021-04-23,Gold
+1086,Paula Smith,India,2019-12-09,Bronze
+1087,Carlos Taylor,Germany,2018-05-14,Silver
+1088,Ivan Moore,France,2015-12-24,Bronze
+1089,Ethan Lee,Spain,2017-06-08,Gold
+1090,Diana Smith,France,2019-07-13,Bronze
+1091,Ivan Johnson,United States,2021-08-08,Bronze
+1092,Kevin Wilson,Germany,2020-07-28,Bronze
+1093,Steve Martin,France,2016-03-17,Silver
+1094,Quinn Brown,India,2015-09-06,Bronze
+1095,Ivan Miller,United States,2020-02-15,Bronze
+1096,Rachel Thompson,France,2015-06-21,Gold
+1097,Julia Anderson,United States,2021-02-28,Bronze
+1098,Paula Anderson,Spain,2021-02-08,Gold
+1099,Mike Martin,Australia,2021-03-20,Bronze
+1100,Paula Wilson,India,2021-03-09,Silver
+1101,Julia Jackson,Brazil,2017-11-23,Silver
+1102,Ethan Garcia,France,2016-12-01,Silver
+1103,Mike Wilson,Germany,2018-10-02,Bronze
+1104,Nina Wilson,Brazil,2016-01-19,Gold
+1105,Paula Moore,Germany,2019-05-04,Bronze
+1106,Rachel Thompson,Canada,2015-08-07,Platinum
+1107,Nina Jackson,United Kingdom,2016-09-06,Bronze
+1108,Alice Williams,United Kingdom,2019-11-09,Silver
+1109,Diana Garcia,Canada,2022-11-22,Gold
+1110,Diana Thompson,United Kingdom,2016-02-19,Silver
+1111,Bob White,Japan,2017-01-01,Silver
+1112,Alice Young,Japan,2021-11-05,Silver
+1113,Fiona Jackson,Germany,2016-01-14,Bronze
+1114,Ivan Harris,Germany,2023-03-14,Bronze
+1115,Bob Thomas,France,2015-10-12,Silver
+1116,Carlos Johnson,Spain,2016-06-19,Bronze
+1117,George Garcia,Spain,2019-01-03,Silver
+1118,Julia Smith,Australia,2019-11-20,Gold
+1119,Mike Moore,Germany,2021-06-05,Gold
+1120,Diana Harris,Germany,2018-02-08,Silver
+1121,Oscar Jones,Brazil,2022-07-27,Bronze
+1122,Quinn Thompson,Spain,2020-07-03,Bronze
+1123,Bob Moore,Canada,2019-05-14,Bronze
+1124,George White,Canada,2018-03-25,Silver
+1125,Paula Williams,Spain,2022-01-02,Bronze
+1126,Nina Harris,France,2018-02-27,Silver
+1127,Carlos Wilson,Germany,2016-01-10,Bronze
+1128,Alice White,India,2015-11-14,Gold
+1129,Nina Thomas,Canada,2021-09-13,Bronze
+1130,Steve Smith,Brazil,2015-08-23,Bronze
+1131,Hannah Young,Canada,2016-12-09,Bronze
+1132,Hannah Wilson,Germany,2018-05-04,Bronze
+1133,Nina Moore,Spain,2016-07-01,Bronze
+1134,Ethan Taylor,Brazil,2016-02-03,Bronze
+1135,Julia Johnson,United States,2018-02-21,Gold
+1136,Steve Anderson,Germany,2017-12-15,Bronze
+1137,Hannah Wilson,Australia,2019-10-23,Bronze
+1138,Mike Miller,Spain,2020-05-24,Bronze
+1139,Quinn Johnson,United Kingdom,2016-07-25,Silver
+1140,Bob Thomas,France,2017-09-14,Bronze
+1141,Paula Anderson,Spain,2021-11-13,Silver
+1142,Tina Wilson,Spain,2020-03-30,Bronze
+1143,Mike White,Australia,2019-09-11,Bronze
+1144,Nina Harris,Japan,2019-06-14,Gold
+1145,Ivan Young,United Kingdom,2017-06-19,Bronze
+1146,Quinn Brown,Japan,2021-07-20,Silver
+1147,Ivan Smith,France,2016-11-11,Bronze
+1148,Ethan Garcia,United Kingdom,2019-09-30,Platinum
+1149,Ivan Anderson,France,2022-11-14,Bronze
+1150,Julia Moore,Germany,2016-05-06,Bronze
+1151,Diana Smith,United States,2018-03-09,Silver
+1152,George Taylor,Spain,2015-06-25,Gold
+1153,Kevin Martin,United Kingdom,2021-12-06,Platinum
+1154,George Jackson,Australia,2015-11-06,Silver
+1155,Mike Young,United States,2018-08-14,Silver
+1156,Carlos Thompson,France,2020-05-25,Bronze
+1157,George Lee,Brazil,2021-06-19,Silver
+1158,Bob Taylor,Brazil,2021-01-16,Bronze
+1159,Ivan Williams,United States,2021-02-01,Bronze
+1160,Laura Johnson,Spain,2018-09-21,Bronze
+1161,George Taylor,Canada,2019-03-06,Bronze
+1162,Nina Wilson,United States,2016-05-30,Silver
+1163,Tina Moore,Germany,2023-03-02,Bronze
+1164,Bob Thompson,Australia,2021-07-27,Bronze
+1165,George Brown,Germany,2022-10-30,Gold
+1166,Laura Taylor,Spain,2019-01-01,Silver
+1167,Laura Young,Germany,2018-01-02,Bronze
+1168,Oscar Brown,Japan,2019-05-23,Bronze
+1169,George Thomas,United States,2016-04-28,Silver
+1170,Diana Harris,United States,2017-04-18,Bronze
+1171,Bob Davis,Germany,2022-10-13,Bronze
+1172,Rachel Miller,Japan,2015-10-18,Gold
+1173,Ivan Lee,United Kingdom,2020-04-08,Silver
+1174,Carlos Jackson,Australia,2015-10-28,Bronze
+1175,Rachel Brown,United Kingdom,2016-02-12,Gold
+1176,Julia Jackson,India,2020-08-04,Platinum
+1177,Mike Brown,United Kingdom,2020-07-14,Bronze
+1178,Alice Garcia,United Kingdom,2019-03-16,Bronze
+1179,Ivan Anderson,United States,2017-04-16,Bronze
+1180,Steve Lee,Japan,2020-03-04,Bronze
+1181,George Brown,Germany,2016-04-25,Bronze
+1182,Carlos Garcia,Canada,2017-03-21,Bronze
+1183,Mike Thomas,Japan,2016-06-08,Gold
+1184,Diana Miller,Japan,2016-12-31,Bronze
+1185,Hannah Young,Canada,2017-11-22,Bronze
+1186,Mike Smith,United Kingdom,2018-04-08,Bronze
+1187,Diana Jones,United States,2018-11-06,Silver
+1188,Rachel Wilson,Spain,2021-04-04,Bronze
+1189,Oscar Anderson,France,2021-12-10,Bronze
+1190,Bob Smith,Brazil,2018-04-28,Silver
+1191,George Miller,Australia,2017-08-22,Bronze
+1192,Hannah Jackson,Spain,2018-02-01,Bronze
+1193,Oscar Anderson,United Kingdom,2020-08-15,Bronze
+1194,Alice White,Australia,2019-05-03,Bronze
+1195,Ethan Taylor,Australia,2017-12-04,Silver
+1196,Hannah Martin,Japan,2021-04-06,Silver
+1197,Mike Williams,Germany,2017-03-24,Gold
+1198,Kevin Martin,Brazil,2021-11-02,Bronze
+1199,Kevin Smith,Brazil,2017-04-22,Bronze
+1200,Tina Johnson,Brazil,2016-06-05,Silver
+1201,Quinn Taylor,Japan,2017-10-14,Bronze
+1202,Mike White,France,2016-02-05,Gold
+1203,George Lee,Japan,2017-01-01,Silver
+1204,Mike Davis,France,2021-02-09,Silver
+1205,Kevin Moore,Brazil,2015-04-05,Bronze
+1206,Carlos Garcia,United Kingdom,2018-03-22,Bronze
+1207,Laura Lee,France,2021-12-06,Bronze
+1208,Ivan Garcia,Brazil,2016-11-28,Silver
+1209,Ethan Thompson,India,2016-05-08,Silver
+1210,Nina Anderson,Spain,2019-04-14,Bronze
+1211,Bob Garcia,India,2022-05-18,Bronze
+1212,Julia White,Brazil,2015-03-18,Bronze
+1213,Rachel Williams,France,2017-09-08,Bronze
+1214,Quinn Garcia,Spain,2021-08-09,Silver
+1215,Ivan Moore,Germany,2017-08-07,Gold
+1216,Bob Thomas,India,2020-10-18,Bronze
+1217,Steve Davis,Spain,2017-07-02,Silver
+1218,Tina Thomas,United States,2019-05-25,Silver
+1219,Nina Miller,India,2022-11-21,Bronze
+1220,Tina Brown,Spain,2016-07-16,Silver
+1221,Paula Martin,Brazil,2018-02-15,Bronze
+1222,Ivan Anderson,Japan,2023-01-14,Silver
+1223,Alice Miller,United Kingdom,2022-04-12,Silver
+1224,Rachel Jackson,India,2019-04-29,Bronze
+1225,Fiona Harris,Spain,2021-09-11,Gold
+1226,Quinn Brown,Germany,2021-10-18,Silver
+1227,Julia Taylor,Canada,2020-10-29,Gold
+1228,Ethan White,Brazil,2016-05-26,Silver
+1229,Laura Lee,United Kingdom,2022-02-10,Bronze
+1230,Steve Wilson,United Kingdom,2023-02-11,Bronze
+1231,Julia Moore,Brazil,2020-04-12,Bronze
+1232,Diana Brown,India,2020-08-20,Platinum
+1233,Julia Johnson,United Kingdom,2017-11-13,Bronze
+1234,Alice Thompson,Germany,2017-03-26,Bronze
+1235,Steve Thomas,United Kingdom,2020-04-16,Silver
+1236,Laura Martin,India,2016-06-30,Silver
+1237,Quinn Wilson,Canada,2016-11-29,Platinum
+1238,Diana Martin,United States,2017-12-19,Bronze
+1239,Tina Williams,Germany,2021-01-31,Gold
+1240,Tina Young,Australia,2016-04-19,Bronze
+1241,Paula Moore,Canada,2019-12-22,Gold
+1242,Nina Davis,Japan,2018-11-01,Bronze
+1243,Quinn Miller,Brazil,2015-04-07,Bronze
+1244,Bob Garcia,France,2020-01-31,Silver
+1245,Fiona Anderson,United States,2019-03-24,Silver
+1246,Fiona Brown,Germany,2015-01-31,Gold
+1247,Hannah Anderson,India,2016-05-05,Silver
+1248,Tina White,Spain,2022-05-30,Bronze
+1249,Tina Jackson,Germany,2022-11-16,Bronze
+1250,Ethan Wilson,United States,2019-02-08,Bronze
+1251,Steve White,Germany,2017-08-12,Gold
+1252,Laura Lee,United Kingdom,2021-05-16,Platinum
+1253,Tina Martin,India,2018-07-11,Silver
+1254,Laura Garcia,Germany,2021-09-24,Bronze
+1255,Oscar Harris,United States,2017-01-15,Bronze
+1256,Steve Thompson,Canada,2018-12-25,Silver
+1257,Kevin Taylor,Canada,2016-07-11,Bronze
+1258,Bob Taylor,Canada,2023-03-04,Platinum
+1259,Oscar Garcia,Spain,2016-03-29,Bronze
+1260,Quinn Young,Japan,2020-01-09,Bronze
+1261,Laura Davis,Brazil,2015-04-28,Gold
+1262,Nina Miller,Germany,2017-04-24,Bronze
+1263,Carlos White,United Kingdom,2021-10-28,Platinum
+1264,Laura Anderson,Brazil,2019-10-28,Bronze
+1265,Tina Anderson,United Kingdom,2019-05-29,Gold
+1266,Ethan Williams,Australia,2022-09-30,Bronze
+1267,Paula Wilson,India,2019-03-22,Bronze
+1268,Julia Harris,United States,2017-08-27,Silver
+1269,George Jackson,Japan,2017-09-23,Platinum
+1270,Quinn Jackson,United States,2016-06-06,Bronze
+1271,Quinn White,United Kingdom,2022-08-20,Bronze
+1272,Quinn Wilson,United States,2018-09-28,Bronze
+1273,Carlos Thompson,India,2019-07-24,Bronze
+1274,Kevin Garcia,Germany,2020-09-07,Silver
+1275,Paula Thomas,United Kingdom,2020-01-02,Bronze
+1276,Ivan Jackson,United States,2015-02-12,Bronze
+1277,Julia Williams,United States,2019-03-11,Gold
+1278,Rachel Garcia,India,2020-01-22,Bronze
+1279,Hannah Anderson,United Kingdom,2020-05-06,Bronze
+1280,Steve Wilson,Spain,2019-12-28,Bronze
+1281,Alice Smith,Spain,2020-05-06,Bronze
+1282,Ivan Wilson,United States,2022-10-06,Bronze
+1283,Carlos Garcia,Australia,2017-07-25,Silver
+1284,Nina Brown,United Kingdom,2018-08-23,Gold
+1285,Kevin Taylor,Germany,2017-12-01,Silver
+1286,Ethan White,India,2022-08-15,Silver
+1287,Bob Brown,Australia,2021-03-12,Bronze
+1288,Hannah Smith,India,2022-04-24,Gold
+1289,Tina Anderson,France,2016-03-31,Bronze
+1290,Nina Lee,Australia,2022-02-16,Silver
+1291,Diana Anderson,Germany,2016-08-24,Gold
+1292,George Wilson,Australia,2015-08-13,Gold
+1293,Rachel Young,Japan,2015-04-30,Silver
+1294,Paula Williams,France,2020-06-22,Gold
+1295,Mike Thomas,Brazil,2015-02-19,Silver
+1296,Rachel Johnson,Japan,2015-02-10,Bronze
+1297,Kevin Johnson,Japan,2018-04-01,Bronze
+1298,Diana Williams,India,2017-07-27,Bronze
+1299,Ivan Smith,United Kingdom,2022-05-24,Bronze
+1300,Ivan Johnson,Brazil,2021-12-15,Bronze
+1301,George Martin,Spain,2017-02-24,Bronze
+1302,Diana White,France,2016-08-22,Gold
+1303,Nina Brown,Australia,2022-07-05,Bronze
+1304,Ethan Moore,United Kingdom,2015-10-01,Bronze
+1305,Ivan Williams,Canada,2021-03-11,Gold
+1306,Diana Jones,Japan,2023-03-18,Silver
+1307,Ethan Thomas,Australia,2021-01-18,Silver
+1308,Kevin Garcia,Brazil,2017-09-09,Silver
+1309,Tina Jackson,India,2021-02-15,Bronze
+1310,Alice Jackson,Spain,2018-01-04,Bronze
+1311,Mike Martin,Canada,2019-12-04,Bronze
+1312,Tina Miller,United Kingdom,2021-12-12,Bronze
+1313,Steve Young,Japan,2018-09-15,Silver
+1314,Fiona Davis,Spain,2017-11-01,Gold
+1315,Tina Wilson,Spain,2017-06-10,Bronze
+1316,Rachel Moore,Australia,2020-02-05,Gold
+1317,Quinn Wilson,Canada,2021-09-07,Silver
+1318,Bob Garcia,France,2015-08-28,Bronze
+1319,Paula Brown,Canada,2022-05-09,Bronze
+1320,Kevin Johnson,Germany,2021-03-28,Bronze
+1321,Carlos Williams,India,2017-10-20,Bronze
+1322,Tina Williams,United States,2020-09-22,Bronze
+1323,Rachel Lee,India,2016-02-03,Silver
+1324,Hannah Harris,India,2015-08-14,Bronze
+1325,Bob Moore,Brazil,2015-01-14,Silver
+1326,Ivan Wilson,Canada,2017-11-11,Bronze
+1327,Hannah Jones,Australia,2019-07-21,Bronze
+1328,Carlos Williams,Spain,2022-08-18,Silver
+1329,Carlos Williams,United States,2021-05-16,Bronze
+1330,Ethan Thomas,Australia,2020-11-21,Silver
+1331,Ethan Williams,Japan,2018-10-30,Bronze
+1332,Julia Jackson,Germany,2022-08-19,Gold
+1333,Alice Smith,United States,2020-12-23,Platinum
+1334,Rachel Martin,Brazil,2022-03-15,Bronze
+1335,Diana Moore,France,2020-02-19,Gold
+1336,Fiona Garcia,Germany,2020-09-07,Bronze
+1337,Nina Young,France,2015-11-17,Gold
+1338,Ivan Young,France,2018-12-25,Bronze
+1339,Rachel Williams,United States,2023-02-01,Gold
+1340,George Jones,Brazil,2019-09-01,Gold
+1341,Carlos Young,Spain,2023-02-06,Bronze
+1342,Oscar Harris,Brazil,2017-10-08,Bronze
+1343,Alice Garcia,Australia,2022-09-28,Gold
+1344,Oscar Taylor,Spain,2017-06-17,Bronze
+1345,Rachel Taylor,United Kingdom,2022-10-16,Platinum
+1346,Carlos Moore,Spain,2018-01-27,Bronze
+1347,Alice Harris,Canada,2019-11-03,Gold
+1348,Paula Jones,France,2021-08-03,Bronze
+1349,Tina Martin,India,2015-11-30,Bronze
+1350,Quinn Jones,United Kingdom,2015-07-12,Bronze
+1351,Bob Taylor,Spain,2019-01-28,Gold
+1352,Rachel White,United States,2017-10-28,Bronze
+1353,Hannah White,Brazil,2019-07-23,Silver
+1354,Nina Harris,France,2016-06-20,Gold
+1355,Ivan Young,Japan,2019-04-15,Bronze
+1356,Paula Smith,Germany,2021-02-21,Silver
+1357,George Harris,Germany,2017-05-07,Silver
+1358,Laura White,United Kingdom,2016-09-30,Bronze
+1359,Nina Garcia,Spain,2019-04-24,Silver
+1360,Mike Martin,Germany,2020-05-10,Bronze
+1361,Fiona Martin,Spain,2015-08-29,Silver
+1362,Ivan Garcia,Japan,2021-01-29,Bronze
+1363,Julia Moore,Japan,2015-01-13,Silver
+1364,Mike Martin,India,2021-06-10,Bronze
+1365,Quinn Lee,Spain,2017-09-06,Platinum
+1366,Carlos Lee,United Kingdom,2022-07-12,Gold
+1367,Hannah Miller,United States,2018-02-12,Bronze
+1368,Diana Harris,Spain,2018-08-25,Platinum
+1369,Julia Thompson,Australia,2019-09-02,Bronze
+1370,Laura Smith,Canada,2018-07-02,Bronze
+1371,Ivan Smith,Canada,2022-09-06,Silver
+1372,Julia Brown,Japan,2017-06-02,Bronze
+1373,Mike Moore,United Kingdom,2020-06-17,Bronze
+1374,Bob Davis,France,2019-12-10,Silver
+1375,Ivan White,Canada,2016-05-27,Bronze
+1376,Bob Jackson,Japan,2015-03-29,Bronze
+1377,Quinn Smith,India,2018-08-28,Bronze
+1378,Alice Jones,India,2022-06-23,Silver
+1379,Paula Johnson,India,2020-09-07,Silver
+1380,Oscar Jones,Canada,2016-09-07,Platinum
+1381,Paula Taylor,France,2015-03-15,Platinum
+1382,Rachel White,Brazil,2016-08-20,Bronze
+1383,Tina Jackson,Japan,2019-12-28,Bronze
+1384,Tina Taylor,India,2022-10-23,Platinum
+1385,Nina Johnson,United Kingdom,2018-08-23,Silver
+1386,Bob Martin,Australia,2021-03-25,Bronze
+1387,Ivan Young,United Kingdom,2022-12-25,Bronze
+1388,Mike Anderson,United Kingdom,2019-11-24,Gold
+1389,Steve Garcia,United Kingdom,2016-08-08,Bronze
+1390,Tina Taylor,Germany,2019-07-21,Bronze
+1391,Diana Martin,Japan,2020-04-10,Bronze
+1392,Steve Jackson,India,2017-09-11,Gold
+1393,Paula Jones,United States,2015-10-05,Silver
+1394,Ivan Thompson,Australia,2017-11-29,Bronze
+1395,Hannah Davis,Germany,2022-06-20,Bronze
+1396,Carlos Young,Japan,2017-05-05,Bronze
+1397,Carlos Davis,United States,2015-05-26,Bronze
+1398,Hannah Thomas,Germany,2019-03-04,Silver
+1399,Mike Young,United Kingdom,2022-06-29,Bronze
+1400,Tina Davis,United States,2018-11-08,Silver
+1401,Carlos Thompson,Brazil,2022-10-09,Bronze
+1402,Julia Smith,Canada,2019-10-22,Bronze
+1403,Alice Williams,United States,2019-11-16,Platinum
+1404,Carlos Young,Australia,2020-09-09,Gold
+1405,Mike Williams,India,2021-11-13,Bronze
+1406,Ethan Young,India,2019-11-01,Bronze
+1407,Nina Thomas,United Kingdom,2018-05-09,Bronze
+1408,Carlos Thompson,United Kingdom,2021-04-18,Bronze
+1409,Laura Johnson,France,2020-03-15,Bronze
+1410,George Thomas,United Kingdom,2016-12-25,Bronze
+1411,Julia Garcia,Japan,2016-02-04,Platinum
+1412,Quinn Lee,United Kingdom,2016-06-18,Bronze
+1413,Kevin Garcia,United Kingdom,2016-09-29,Bronze
+1414,Tina Davis,France,2021-02-15,Bronze
+1415,Alice Johnson,Japan,2015-06-09,Silver
+1416,Fiona Martin,Spain,2019-12-24,Silver
+1417,Laura White,France,2020-04-01,Silver
+1418,Oscar Anderson,Japan,2022-09-28,Gold
+1419,Julia Brown,United States,2021-03-03,Silver
+1420,Julia Anderson,Germany,2015-05-09,Bronze
+1421,Kevin Lee,Canada,2015-01-26,Bronze
+1422,Mike Wilson,Spain,2018-05-09,Silver
+1423,George Davis,United States,2021-08-26,Silver
+1424,Ivan Taylor,Australia,2016-09-30,Silver
+1425,Ethan Anderson,Australia,2018-04-04,Platinum
+1426,Tina Wilson,Germany,2016-11-23,Silver
+1427,Carlos Wilson,United Kingdom,2017-08-20,Silver
+1428,George Jones,Australia,2018-07-15,Silver
+1429,Nina Brown,France,2017-05-14,Silver
+1430,George Smith,Australia,2019-10-18,Bronze
+1431,Hannah Brown,United Kingdom,2016-05-22,Silver
+1432,Hannah Harris,Germany,2017-04-26,Silver
+1433,Nina Harris,Spain,2015-08-10,Silver
+1434,Diana Miller,Australia,2023-02-22,Silver
+1435,Ethan Williams,United Kingdom,2015-11-10,Bronze
+1436,Steve Smith,Spain,2021-02-27,Bronze
+1437,Bob Martin,Brazil,2021-07-23,Silver
+1438,Hannah Miller,United States,2021-09-28,Silver
+1439,Carlos Miller,India,2022-04-12,Silver
+1440,Tina Thompson,Japan,2015-03-28,Bronze
+1441,Quinn Jones,India,2021-04-28,Bronze
+1442,Quinn Brown,India,2016-05-03,Bronze
+1443,George Taylor,India,2019-09-24,Bronze
+1444,Rachel Davis,Australia,2020-09-01,Silver
+1445,Alice Anderson,India,2020-11-19,Platinum
+1446,Oscar Harris,Spain,2019-11-20,Silver
+1447,Oscar Jackson,India,2020-07-20,Silver
+1448,Fiona Wilson,Canada,2019-09-12,Bronze
+1449,Fiona Miller,Australia,2021-06-12,Silver
+1450,Mike Wilson,India,2018-01-24,Bronze
+1451,Steve Garcia,Brazil,2015-04-30,Gold
+1452,Steve Johnson,Brazil,2019-03-07,Bronze
+1453,Ethan Jones,Canada,2021-03-20,Silver
+1454,Bob Williams,Canada,2020-03-14,Bronze
+1455,Steve Thompson,France,2019-07-04,Bronze
+1456,Tina Brown,Australia,2021-12-26,Bronze
+1457,Quinn Thomas,Japan,2022-08-05,Silver
+1458,Diana Wilson,United States,2017-10-06,Gold
+1459,Rachel Wilson,Australia,2018-02-09,Bronze
+1460,Nina White,Spain,2017-02-10,Silver
+1461,Fiona Jackson,France,2017-06-11,Bronze
+1462,Oscar Johnson,India,2022-07-05,Bronze
+1463,Paula Anderson,Spain,2019-03-28,Bronze
+1464,Carlos Moore,Canada,2022-05-27,Bronze
+1465,Laura Martin,Canada,2021-07-25,Bronze
+1466,Tina Anderson,Brazil,2016-05-18,Bronze
+1467,Bob Thomas,United Kingdom,2016-01-28,Bronze
+1468,Alice Garcia,Germany,2022-05-22,Bronze
+1469,Kevin Young,Japan,2015-02-17,Bronze
+1470,Laura Martin,Australia,2018-12-12,Bronze
+1471,Steve Anderson,United States,2021-09-05,Silver
+1472,Julia Miller,Japan,2015-03-18,Gold
+1473,Ivan Thompson,India,2018-03-24,Silver
+1474,Mike Williams,India,2016-03-23,Bronze
+1475,Kevin White,Australia,2019-12-13,Bronze
+1476,Ethan Jackson,France,2019-11-12,Silver
+1477,Alice Johnson,India,2021-07-07,Silver
+1478,Hannah Johnson,France,2019-10-03,Bronze
+1479,Tina Johnson,Brazil,2020-04-02,Bronze
+1480,Oscar Wilson,France,2017-03-10,Bronze
+1481,Alice Young,Brazil,2015-08-08,Bronze
+1482,Kevin Smith,United Kingdom,2022-10-17,Platinum
+1483,George Miller,France,2018-04-06,Gold
+1484,Hannah Williams,Brazil,2023-02-18,Bronze
+1485,Paula Moore,Spain,2019-09-27,Silver
+1486,Diana Martin,India,2018-12-29,Bronze
+1487,Ivan Smith,Germany,2019-05-22,Gold
+1488,Bob Brown,Australia,2020-11-02,Gold
+1489,Ethan Thomas,France,2016-11-24,Bronze
+1490,Carlos Johnson,Brazil,2022-11-18,Platinum
+1491,Quinn Taylor,Brazil,2020-04-24,Silver
+1492,Rachel Moore,Japan,2016-07-31,Platinum
+1493,Laura Moore,Germany,2015-03-17,Silver
+1494,Carlos Williams,India,2019-09-15,Bronze
+1495,Quinn Garcia,Brazil,2016-11-05,Bronze
+1496,Julia Johnson,United Kingdom,2020-09-17,Silver
+1497,Julia Young,Brazil,2023-01-14,Bronze
+1498,Ivan Brown,India,2015-11-02,Gold
+1499,Ethan White,United Kingdom,2022-04-03,Bronze
+1500,Diana Miller,United Kingdom,2021-08-13,Bronze
+1501,Fiona Thompson,India,2016-07-28,Bronze
+1502,Hannah Wilson,France,2021-09-07,Bronze
+1503,Hannah Anderson,Brazil,2016-03-03,Silver
+1504,Quinn Thomas,India,2017-03-17,Bronze
+1505,Ivan Harris,France,2020-03-26,Bronze
+1506,Oscar Brown,Canada,2022-10-06,Platinum
+1507,Oscar Garcia,Brazil,2017-12-17,Gold
+1508,Oscar Lee,France,2016-05-22,Gold
+1509,Tina Thompson,United States,2019-12-17,Bronze
+1510,Hannah Miller,Japan,2019-12-21,Silver
+1511,Ethan Brown,Australia,2018-12-23,Bronze
+1512,Fiona Davis,Brazil,2017-10-01,Silver
+1513,Steve White,Brazil,2022-06-12,Silver
+1514,Alice Wilson,United Kingdom,2017-10-22,Gold
+1515,Kevin Thompson,India,2019-08-22,Bronze
+1516,Mike Wilson,France,2016-09-09,Bronze
+1517,Steve Johnson,Japan,2017-09-19,Bronze
+1518,Quinn White,Brazil,2018-08-06,Silver
+1519,Ivan Martin,Canada,2015-06-03,Gold
+1520,Julia Jones,United Kingdom,2015-01-16,Platinum
+1521,Tina Young,Brazil,2021-08-16,Silver
+1522,Quinn Taylor,Brazil,2019-07-27,Silver
+1523,Carlos Young,Japan,2023-01-13,Bronze
+1524,Mike White,Spain,2017-04-18,Gold
+1525,Steve Garcia,Brazil,2021-01-10,Silver
+1526,George Thomas,United States,2022-11-23,Gold
+1527,Paula Young,India,2021-09-12,Bronze
+1528,Steve Harris,India,2021-09-20,Silver
+1529,Alice Harris,Spain,2020-09-26,Platinum
+1530,Hannah Martin,United Kingdom,2015-02-23,Bronze
+1531,George Thomas,Germany,2018-02-22,Bronze
+1532,George Williams,Spain,2018-10-01,Silver
+1533,Ethan Thomas,Canada,2019-06-07,Bronze
+1534,Ivan Taylor,Japan,2022-10-01,Gold
+1535,Fiona Jones,Australia,2015-04-03,Bronze
+1536,Mike White,India,2020-11-02,Gold
+1537,Julia Martin,India,2015-02-17,Silver
+1538,Laura Young,Australia,2017-12-09,Bronze
+1539,Fiona Smith,United States,2016-06-06,Silver
+1540,Steve Jones,France,2018-05-29,Silver
+1541,Hannah White,United Kingdom,2018-04-28,Gold
+1542,Julia Miller,India,2022-05-25,Silver
+1543,Diana Davis,Brazil,2016-12-30,Silver
+1544,Tina Garcia,India,2021-03-11,Gold
+1545,Bob Young,Japan,2021-10-21,Silver
+1546,Kevin Harris,France,2020-12-06,Silver
+1547,Kevin Davis,Brazil,2018-07-13,Gold
+1548,Diana Garcia,Germany,2015-02-18,Bronze
+1549,Carlos Taylor,Spain,2022-08-15,Silver
+1550,Bob Taylor,Japan,2015-01-23,Bronze
+1551,Fiona Jones,Canada,2020-07-24,Silver
+1552,Hannah Garcia,United Kingdom,2017-08-27,Silver
+1553,George White,India,2015-03-11,Bronze
+1554,Rachel Moore,United States,2021-11-28,Silver
+1555,Ivan Jones,Spain,2017-08-03,Silver
+1556,Laura Taylor,Australia,2015-06-11,Bronze
+1557,Steve Miller,Germany,2015-01-31,Bronze
+1558,Quinn Jones,Germany,2018-05-12,Bronze
+1559,Steve Brown,France,2015-06-11,Silver
+1560,Diana Smith,India,2019-02-28,Bronze
+1561,Paula Johnson,Canada,2016-05-11,Silver
+1562,Nina Wilson,United States,2019-04-15,Bronze
+1563,Diana Anderson,United Kingdom,2016-05-22,Silver
+1564,Fiona Garcia,Canada,2016-04-06,Bronze
+1565,Fiona Young,Australia,2015-09-10,Bronze
+1566,Ethan Davis,Germany,2017-03-08,Gold
+1567,Fiona Brown,France,2021-05-19,Silver
+1568,Ethan Thompson,Australia,2020-09-08,Gold
+1569,Julia Garcia,Brazil,2017-08-14,Bronze
+1570,Fiona Jones,United Kingdom,2022-12-31,Bronze
+1571,Tina Williams,Japan,2016-01-17,Bronze
+1572,Carlos Lee,Spain,2018-10-22,Bronze
+1573,Ethan Williams,United States,2018-09-08,Silver
+1574,Quinn Moore,Germany,2022-06-04,Silver
+1575,Julia Davis,Australia,2016-05-08,Silver
+1576,Tina Moore,United Kingdom,2022-01-03,Gold
+1577,Oscar Lee,India,2015-12-22,Bronze
+1578,Hannah Smith,United Kingdom,2021-09-01,Gold
+1579,Diana Brown,Australia,2018-02-05,Gold
+1580,George Brown,Japan,2022-09-30,Bronze
+1581,Bob Williams,Canada,2016-03-25,Gold
+1582,Alice Moore,India,2020-11-07,Bronze
+1583,Alice Jackson,Canada,2022-06-14,Bronze
+1584,Ethan Smith,United States,2021-11-28,Silver
+1585,Fiona Harris,France,2019-11-11,Silver
+1586,Ethan Young,France,2021-11-03,Bronze
+1587,Laura Jones,United States,2022-02-24,Bronze
+1588,Laura Jackson,Brazil,2021-12-09,Silver
+1589,Nina White,United Kingdom,2016-08-06,Bronze
+1590,Tina Moore,Canada,2022-11-28,Bronze
+1591,Hannah Smith,Australia,2021-06-19,Bronze
+1592,Kevin Miller,France,2022-04-10,Silver
+1593,Julia Young,Brazil,2015-06-28,Bronze
+1594,George Smith,Japan,2021-03-27,Bronze
+1595,Rachel Martin,Brazil,2021-03-07,Gold
+1596,Diana Young,Germany,2015-09-06,Silver
+1597,Ethan Jones,India,2022-11-13,Bronze
+1598,Bob Wilson,United States,2016-08-02,Bronze
+1599,Carlos Jackson,Japan,2020-10-30,Silver
+1600,Kevin Johnson,United Kingdom,2018-07-31,Silver
+1601,Ethan Garcia,Australia,2021-01-23,Bronze
+1602,Diana Lee,United States,2019-07-28,Bronze
+1603,Kevin Lee,India,2017-01-31,Silver
+1604,Rachel Williams,Canada,2020-04-24,Platinum
+1605,Kevin Jackson,Canada,2021-11-14,Silver
+1606,Diana Harris,Germany,2021-07-10,Bronze
+1607,Mike Young,India,2016-01-26,Bronze
+1608,Hannah Davis,Canada,2019-01-11,Bronze
+1609,Rachel Moore,France,2015-03-27,Silver
+1610,Ethan Jackson,Spain,2020-02-02,Silver
+1611,George Miller,United Kingdom,2015-07-26,Platinum
+1612,Fiona Johnson,India,2018-10-28,Silver
+1613,Bob Anderson,Japan,2017-11-25,Bronze
+1614,Quinn Smith,France,2017-11-23,Bronze
+1615,Kevin Thompson,Australia,2019-11-26,Bronze
+1616,Tina Anderson,United Kingdom,2021-07-19,Gold
+1617,Ivan Davis,Spain,2018-11-16,Gold
+1618,Ivan Moore,Canada,2022-11-25,Platinum
+1619,Steve Jones,United States,2021-08-25,Bronze
+1620,Kevin Anderson,Canada,2021-10-04,Bronze
+1621,Quinn Miller,United Kingdom,2016-02-05,Gold
+1622,Steve Moore,Spain,2018-04-18,Gold
+1623,Ethan Garcia,India,2017-08-27,Bronze
+1624,Steve Taylor,India,2020-02-24,Platinum
+1625,Julia Jones,Brazil,2021-09-22,Gold
+1626,Nina Davis,United States,2018-02-13,Silver
+1627,Kevin Taylor,United States,2021-05-13,Platinum
+1628,Julia White,India,2022-04-25,Silver
+1629,Julia Williams,Japan,2017-03-18,Silver
+1630,Fiona Martin,United Kingdom,2015-02-24,Platinum
+1631,Kevin Young,Germany,2018-11-25,Bronze
+1632,Diana Brown,India,2021-08-18,Silver
+1633,Julia Thomas,Germany,2017-09-29,Platinum
+1634,Carlos Jackson,Japan,2019-02-21,Gold
+1635,Laura Thomas,France,2022-01-20,Bronze
+1636,Hannah Smith,United States,2022-08-17,Bronze
+1637,George Miller,Australia,2021-07-07,Gold
+1638,Bob Williams,Australia,2019-06-12,Gold
+1639,Alice White,Australia,2018-09-11,Silver
+1640,Steve Moore,United Kingdom,2017-12-19,Gold
+1641,Oscar Miller,Australia,2021-12-10,Platinum
+1642,Ethan Martin,France,2023-02-04,Silver
+1643,Tina Thomas,Germany,2019-02-18,Silver
+1644,Oscar Wilson,United Kingdom,2022-05-13,Bronze
+1645,Nina Anderson,Japan,2022-09-16,Bronze
+1646,Kevin White,Japan,2018-06-23,Bronze
+1647,George Davis,Japan,2019-01-04,Bronze
+1648,Mike Brown,Brazil,2016-04-19,Bronze
+1649,Nina Young,Japan,2020-02-26,Silver
+1650,Tina Davis,Spain,2017-01-22,Bronze
+1651,Steve Jackson,Germany,2017-07-17,Bronze
+1652,George Jackson,Spain,2016-12-06,Silver
+1653,Kevin Williams,Australia,2019-08-30,Bronze
+1654,Quinn Miller,Brazil,2021-09-17,Silver
+1655,Oscar White,Canada,2015-10-11,Bronze
+1656,George Davis,France,2019-08-26,Silver
+1657,Bob Brown,United States,2020-04-08,Gold
+1658,Nina Harris,Japan,2022-08-31,Bronze
+1659,George Moore,Australia,2015-05-30,Bronze
+1660,Rachel Brown,Japan,2022-07-17,Silver
+1661,Laura Moore,Spain,2023-02-01,Gold
+1662,Bob Thomas,United Kingdom,2020-09-25,Gold
+1663,Mike Moore,India,2020-07-16,Bronze
+1664,Quinn Anderson,Brazil,2019-05-22,Bronze
+1665,Alice Miller,Japan,2017-04-10,Silver
+1666,Julia Jones,India,2019-11-01,Bronze
+1667,Ethan Harris,United Kingdom,2021-12-21,Platinum
+1668,Ethan Williams,Brazil,2017-07-05,Bronze
+1669,Kevin Jackson,Japan,2020-02-16,Bronze
+1670,Tina Johnson,Japan,2022-08-18,Silver
+1671,Bob Harris,Germany,2020-08-01,Silver
+1672,Fiona Miller,Japan,2019-03-10,Silver
+1673,Nina Williams,Canada,2020-02-26,Silver
+1674,Nina Anderson,Brazil,2022-01-19,Bronze
+1675,Ivan Smith,Germany,2016-10-08,Bronze
+1676,Ethan Miller,Canada,2021-07-12,Silver
+1677,Kevin White,Germany,2017-12-28,Silver
+1678,Tina Williams,Brazil,2019-10-30,Bronze
+1679,Fiona Jackson,United Kingdom,2018-05-18,Silver
+1680,Carlos Smith,Spain,2021-09-04,Gold
+1681,Kevin Harris,India,2015-10-18,Platinum
+1682,Hannah Miller,India,2022-02-25,Silver
+1683,Paula Smith,France,2022-02-01,Bronze
+1684,Diana Anderson,Japan,2019-09-08,Platinum
+1685,Alice Taylor,France,2017-10-14,Silver
+1686,Bob Thompson,Australia,2015-12-21,Silver
+1687,George Thompson,Japan,2015-08-24,Bronze
+1688,Mike Garcia,Canada,2021-12-05,Silver
+1689,Tina Anderson,Japan,2021-05-31,Bronze
+1690,Bob Miller,United States,2021-01-31,Gold
+1691,Steve White,Australia,2020-12-02,Bronze
+1692,Rachel Smith,Canada,2015-08-14,Gold
+1693,Ivan Brown,Japan,2015-11-01,Bronze
+1694,Diana Miller,United States,2019-06-16,Bronze
+1695,Julia Martin,Australia,2017-03-04,Silver
+1696,Nina Williams,United States,2018-04-05,Silver
+1697,Alice Martin,India,2015-01-25,Bronze
+1698,Paula Wilson,Spain,2020-11-11,Silver
+1699,Paula Anderson,India,2022-12-11,Platinum
+1700,Bob Garcia,Canada,2021-08-13,Bronze
+1701,Oscar Williams,France,2021-01-14,Silver
+1702,Ethan White,Spain,2022-09-20,Bronze
+1703,Julia Wilson,Canada,2018-10-10,Silver
+1704,Rachel Lee,United States,2018-11-01,Gold
+1705,Oscar Miller,United States,2016-05-26,Silver
+1706,Tina Taylor,Germany,2019-06-10,Bronze
+1707,Ivan Anderson,Brazil,2022-03-06,Silver
+1708,Julia Anderson,Japan,2019-10-06,Bronze
+1709,George Johnson,Australia,2016-03-28,Bronze
+1710,Carlos Jackson,France,2019-11-29,Silver
+1711,Nina Davis,United Kingdom,2020-03-01,Bronze
+1712,George Thompson,Australia,2019-06-10,Silver
+1713,Hannah Thomas,Spain,2022-02-11,Bronze
+1714,Bob Johnson,United Kingdom,2018-09-10,Silver
+1715,Hannah Wilson,France,2016-05-04,Platinum
+1716,Nina Jones,Spain,2016-12-26,Bronze
+1717,Kevin Thomas,Germany,2016-05-21,Gold
+1718,Ivan Miller,France,2019-02-23,Platinum
+1719,Carlos Garcia,United States,2018-08-14,Bronze
+1720,Tina Jones,United Kingdom,2017-06-16,Silver
+1721,Nina Smith,Japan,2020-08-27,Bronze
+1722,Tina White,Germany,2022-06-24,Silver
+1723,Oscar Johnson,Germany,2017-10-30,Bronze
+1724,Julia Taylor,France,2016-05-03,Silver
+1725,Bob Harris,Japan,2022-03-03,Silver
+1726,Bob Harris,United States,2015-03-03,Silver
+1727,Steve Thomas,United States,2021-02-27,Silver
+1728,Oscar Moore,Canada,2017-07-22,Silver
+1729,Kevin Young,France,2018-02-11,Bronze
+1730,Paula Williams,Japan,2022-11-11,Silver
+1731,Laura Jackson,France,2017-10-04,Bronze
+1732,Nina Williams,United States,2022-10-23,Silver
+1733,Hannah Garcia,France,2015-10-12,Bronze
+1734,Alice Davis,Japan,2020-07-28,Bronze
+1735,Quinn Moore,Brazil,2017-07-26,Platinum
+1736,Bob Thompson,United Kingdom,2019-08-11,Silver
+1737,Bob Miller,Australia,2015-04-28,Bronze
+1738,Ivan Jones,United States,2019-06-28,Bronze
+1739,Tina Taylor,India,2015-02-06,Bronze
+1740,Julia Thompson,Australia,2016-02-13,Silver
+1741,Nina Martin,India,2017-07-01,Silver
+1742,Carlos Williams,Canada,2017-10-06,Silver
+1743,Paula Thompson,Australia,2020-12-03,Bronze
+1744,George Wilson,Japan,2019-03-31,Gold
+1745,Paula Jackson,Japan,2020-12-14,Bronze
+1746,George Johnson,United States,2020-06-22,Bronze
+1747,Alice Davis,India,2020-01-30,Silver
+1748,Julia Jackson,Canada,2017-08-09,Silver
+1749,Kevin Smith,India,2020-10-23,Gold
+1750,Laura White,United States,2018-03-03,Bronze
+1751,Kevin Anderson,Canada,2016-11-01,Silver
+1752,Laura Martin,India,2020-05-17,Silver
+1753,Fiona Brown,United States,2021-07-09,Bronze
+1754,Rachel Johnson,Australia,2018-02-27,Silver
+1755,Oscar Young,Canada,2020-09-23,Silver
+1756,Hannah Smith,United Kingdom,2020-11-04,Silver
+1757,Nina Johnson,India,2015-04-28,Silver
+1758,Oscar Anderson,France,2021-06-07,Bronze
+1759,Steve Thompson,Australia,2019-03-20,Bronze
+1760,Nina Smith,United States,2022-11-24,Bronze
+1761,Paula Johnson,Spain,2020-10-09,Bronze
+1762,Nina Taylor,Canada,2020-11-22,Gold
+1763,Steve Moore,France,2022-08-25,Silver
+1764,Quinn Smith,Australia,2017-06-08,Gold
+1765,Nina Davis,Canada,2019-12-23,Silver
+1766,Carlos Thomas,Brazil,2020-08-21,Bronze
+1767,Oscar Thompson,United States,2018-11-12,Silver
+1768,Julia Wilson,Australia,2016-06-21,Silver
+1769,Laura Martin,Germany,2017-12-09,Silver
+1770,Julia Thompson,United States,2021-04-06,Bronze
+1771,Kevin Young,Germany,2016-02-01,Silver
+1772,Steve Miller,United Kingdom,2022-12-27,Bronze
+1773,Quinn Harris,Japan,2020-11-02,Bronze
+1774,Tina Wilson,Japan,2015-09-26,Silver
+1775,Ivan Williams,Japan,2018-08-13,Silver
+1776,Carlos Wilson,United Kingdom,2022-06-04,Bronze
+1777,Rachel White,Canada,2022-07-10,Silver
+1778,Alice Taylor,Japan,2019-08-12,Bronze
+1779,Ethan Jackson,Germany,2018-02-06,Bronze
+1780,Bob Garcia,Australia,2022-08-30,Silver
+1781,Paula Thompson,Japan,2018-10-12,Gold
+1782,Kevin Harris,India,2019-04-21,Bronze
+1783,Oscar Miller,Japan,2015-04-26,Bronze
+1784,Ethan Brown,United Kingdom,2022-02-27,Silver
+1785,Fiona Wilson,Australia,2021-04-19,Bronze
+1786,Laura Wilson,Brazil,2021-11-08,Silver
+1787,Quinn Moore,Canada,2022-09-24,Silver
+1788,Rachel Anderson,United Kingdom,2021-09-15,Silver
+1789,Quinn Miller,Germany,2020-05-23,Silver
+1790,Ethan Thompson,Spain,2022-01-29,Bronze
+1791,Ethan Davis,Brazil,2016-03-24,Bronze
+1792,Steve Jackson,United States,2016-11-04,Bronze
+1793,Tina Martin,United States,2018-02-06,Bronze
+1794,Hannah Jones,Brazil,2017-01-21,Bronze
+1795,George Harris,Australia,2021-01-22,Silver
+1796,Diana Brown,Japan,2016-07-02,Bronze
+1797,Mike Lee,Brazil,2015-09-22,Silver
+1798,Carlos Brown,Canada,2022-07-06,Gold
+1799,Oscar White,Brazil,2016-05-03,Bronze
+1800,Diana Taylor,Spain,2017-03-23,Silver
+1801,Tina Thomas,Germany,2022-04-19,Silver
+1802,Oscar Martin,Japan,2016-03-31,Bronze
+1803,Steve Williams,Spain,2016-11-05,Silver
+1804,Ivan Wilson,United States,2016-06-18,Bronze
+1805,Bob Martin,France,2018-09-25,Silver
+1806,Rachel Young,Brazil,2018-03-01,Silver
+1807,George Anderson,Canada,2015-09-06,Gold
+1808,Quinn Taylor,India,2018-04-03,Bronze
+1809,Alice Moore,Spain,2019-01-24,Silver
+1810,Tina Garcia,India,2020-07-22,Bronze
+1811,Oscar Taylor,Japan,2020-01-23,Bronze
+1812,Quinn Jackson,Japan,2021-04-14,Silver
+1813,Julia Taylor,France,2021-08-20,Gold
+1814,Julia Williams,France,2017-04-10,Bronze
+1815,George Garcia,Japan,2022-05-22,Bronze
+1816,Bob Martin,United Kingdom,2021-09-26,Silver
+1817,Julia Moore,India,2021-05-26,Platinum
+1818,Ethan Smith,India,2018-04-30,Bronze
+1819,Oscar Davis,Australia,2021-11-04,Silver
+1820,Steve Jones,United Kingdom,2018-07-16,Bronze
+1821,Quinn Jackson,Canada,2022-11-26,Bronze
+1822,Quinn Garcia,Spain,2019-11-10,Bronze
+1823,Fiona Smith,Australia,2016-08-30,Silver
+1824,Quinn White,United States,2015-05-26,Bronze
+1825,Bob Thomas,Germany,2018-03-17,Bronze
+1826,Laura Jones,United Kingdom,2022-01-17,Silver
+1827,Ethan Jones,Australia,2019-07-19,Bronze
+1828,Julia Davis,Brazil,2019-08-27,Silver
+1829,Tina Jones,United States,2019-10-03,Bronze
+1830,Laura Wilson,Australia,2019-08-26,Gold
+1831,Nina Harris,United States,2017-02-15,Bronze
+1832,Bob White,United States,2015-10-02,Gold
+1833,Steve Anderson,Australia,2020-06-03,Silver
+1834,Laura Davis,India,2020-12-04,Platinum
+1835,Ethan Taylor,Brazil,2021-03-25,Bronze
+1836,George White,United Kingdom,2016-02-26,Bronze
+1837,Carlos Thompson,Australia,2022-10-24,Silver
+1838,Tina Brown,United Kingdom,2023-01-19,Silver
+1839,Rachel Williams,India,2021-04-13,Bronze
+1840,Kevin Martin,United Kingdom,2019-01-12,Silver
+1841,Diana Martin,Japan,2016-07-23,Bronze
+1842,George White,India,2017-12-30,Bronze
+1843,Oscar Williams,Spain,2019-01-31,Bronze
+1844,Laura Thomas,Germany,2016-03-10,Bronze
+1845,Bob Smith,Canada,2020-06-18,Silver
+1846,Carlos Young,Canada,2015-07-02,Bronze
+1847,Kevin Jackson,India,2018-10-21,Gold
+1848,Bob Johnson,France,2019-12-25,Gold
+1849,Rachel Jackson,United Kingdom,2018-05-24,Bronze
+1850,George Young,United Kingdom,2015-08-10,Bronze
+1851,Oscar Moore,Germany,2017-06-08,Bronze
+1852,Quinn Miller,Brazil,2022-04-11,Bronze
+1853,Hannah Brown,Canada,2020-04-16,Bronze
+1854,Carlos Jones,Japan,2022-09-08,Bronze
+1855,Laura Jackson,Germany,2022-01-01,Bronze
+1856,Mike Young,Germany,2017-08-15,Bronze
+1857,Bob Brown,France,2018-03-30,Bronze
+1858,Diana Wilson,India,2020-08-07,Bronze
+1859,Alice Jones,Spain,2020-08-12,Bronze
+1860,Ethan Martin,United Kingdom,2015-11-29,Silver
+1861,George Brown,Spain,2019-05-20,Silver
+1862,Rachel Taylor,France,2019-02-02,Silver
+1863,George Anderson,India,2017-02-03,Silver
+1864,Hannah Harris,Canada,2020-01-04,Silver
+1865,Quinn Martin,Germany,2018-05-01,Bronze
+1866,Tina Brown,Spain,2020-11-02,Bronze
+1867,Diana Miller,France,2021-05-15,Bronze
+1868,Paula Jones,France,2016-06-16,Silver
+1869,Fiona Davis,Spain,2017-01-19,Silver
+1870,Oscar Taylor,Canada,2016-01-15,Silver
+1871,Quinn Harris,United States,2019-03-06,Gold
+1872,Julia Moore,United States,2018-10-06,Silver
+1873,Paula Taylor,Australia,2017-02-26,Bronze
+1874,Diana Miller,Japan,2021-12-12,Bronze
+1875,Paula Johnson,Germany,2023-02-16,Silver
+1876,Steve Lee,United Kingdom,2018-02-10,Silver
+1877,Alice Harris,United Kingdom,2020-04-17,Gold
+1878,Oscar Martin,Spain,2019-09-20,Bronze
+1879,Laura Miller,Japan,2015-02-12,Bronze
+1880,Kevin Moore,Australia,2020-08-02,Silver
+1881,Ethan Harris,Australia,2017-08-01,Bronze
+1882,Oscar Miller,Germany,2019-06-13,Gold
+1883,Steve Anderson,France,2020-01-22,Bronze
+1884,Julia Wilson,Spain,2020-05-04,Silver
+1885,Diana Garcia,Germany,2019-03-27,Gold
+1886,Kevin Williams,Canada,2022-04-13,Gold
+1887,Hannah Jackson,Spain,2016-10-26,Gold
+1888,Bob Johnson,Spain,2016-01-30,Silver
+1889,Laura Martin,Australia,2017-08-23,Gold
+1890,Bob Jones,Spain,2020-06-07,Gold
+1891,Quinn Young,Australia,2017-08-24,Silver
+1892,Tina Harris,United States,2019-11-18,Silver
+1893,Bob Williams,France,2020-07-16,Bronze
+1894,Steve Thomas,Brazil,2021-03-30,Gold
+1895,Nina Davis,Brazil,2019-04-07,Silver
+1896,Ivan Thomas,United Kingdom,2015-01-26,Bronze
+1897,Steve Lee,France,2016-04-02,Silver
+1898,Alice Moore,Canada,2020-06-07,Silver
+1899,Alice Taylor,United States,2022-09-23,Bronze
+1900,Diana Taylor,Spain,2018-01-24,Silver
+1901,Nina Johnson,France,2018-09-14,Bronze
+1902,Fiona White,United States,2019-04-27,Bronze
+1903,Laura Johnson,United States,2021-09-20,Bronze
+1904,Diana Lee,Australia,2017-09-29,Bronze
+1905,Rachel Brown,Brazil,2020-06-01,Platinum
+1906,Ivan Smith,India,2021-11-24,Silver
+1907,Julia Harris,Spain,2019-12-14,Bronze
+1908,George Williams,United Kingdom,2019-01-24,Silver
+1909,Julia Taylor,United Kingdom,2019-09-21,Bronze
+1910,Hannah Young,India,2016-06-18,Silver
+1911,Hannah Thomas,Brazil,2015-01-07,Bronze
+1912,Oscar Wilson,United Kingdom,2021-03-11,Silver
+1913,Rachel Jones,India,2022-09-16,Gold
+1914,Paula Anderson,Brazil,2016-01-29,Silver
+1915,Rachel Thompson,Brazil,2017-02-05,Silver
+1916,George Johnson,Brazil,2018-10-28,Silver
+1917,Laura Harris,India,2019-07-25,Gold
+1918,Diana Thomas,Australia,2021-03-20,Bronze
+1919,George Smith,United States,2023-03-19,Gold
+1920,George Garcia,Germany,2015-03-31,Bronze
+1921,Mike Garcia,United States,2019-09-17,Silver
+1922,Paula Garcia,Spain,2020-08-15,Bronze
+1923,Carlos Young,Canada,2023-01-01,Bronze
+1924,Alice Garcia,India,2022-11-13,Silver
+1925,Fiona Lee,Japan,2017-04-04,Silver
+1926,Quinn Smith,Germany,2019-11-20,Bronze
+1927,Tina Jones,India,2015-08-12,Bronze
+1928,Laura Brown,Germany,2016-11-26,Silver
+1929,Kevin Martin,United Kingdom,2022-11-07,Silver
+1930,Oscar Garcia,Spain,2022-03-28,Silver
+1931,Laura White,India,2017-03-18,Bronze
+1932,Nina Martin,United Kingdom,2016-06-06,Bronze
+1933,Kevin Davis,Germany,2018-09-02,Bronze
+1934,Bob Johnson,United Kingdom,2022-02-14,Bronze
+1935,Diana Garcia,France,2015-03-09,Bronze
+1936,Quinn Martin,India,2022-05-16,Bronze
+1937,Carlos Jones,Germany,2015-12-24,Bronze
+1938,George Jackson,Australia,2016-06-06,Gold
+1939,Diana Johnson,United Kingdom,2015-05-10,Bronze
+1940,Ivan Taylor,Germany,2015-07-12,Silver
+1941,Bob Johnson,Spain,2021-06-19,Bronze
+1942,Tina White,United Kingdom,2018-08-10,Silver
+1943,Quinn Anderson,United Kingdom,2015-12-08,Platinum
+1944,Carlos Taylor,United States,2022-06-13,Silver
+1945,Diana Garcia,Germany,2023-02-19,Gold
+1946,Bob Williams,United Kingdom,2016-11-13,Gold
+1947,Oscar Taylor,United States,2020-11-05,Bronze
+1948,Oscar Johnson,France,2021-05-07,Bronze
+1949,Paula Davis,India,2015-02-03,Bronze
+1950,Steve Brown,Canada,2021-10-14,Platinum
+1951,Paula Brown,Spain,2016-01-17,Bronze
+1952,Laura Brown,Canada,2016-05-15,Bronze
+1953,Rachel Martin,United Kingdom,2020-07-19,Bronze
+1954,Nina Williams,United States,2021-05-07,Bronze
+1955,Hannah Moore,India,2023-02-08,Bronze
+1956,Tina Williams,Germany,2020-03-30,Bronze
+1957,Hannah Jackson,Germany,2018-05-18,Gold
+1958,Paula Lee,Spain,2015-08-18,Bronze
+1959,Hannah Miller,Canada,2020-05-05,Bronze
+1960,Steve Williams,Brazil,2021-03-05,Bronze
+1961,Nina Miller,Japan,2018-01-11,Gold
+1962,Laura Martin,Australia,2020-09-03,Silver
+1963,Diana Thompson,Australia,2018-12-05,Bronze
+1964,Carlos Harris,United States,2019-12-18,Gold
+1965,Laura Harris,Japan,2019-11-11,Gold
+1966,Oscar Williams,United States,2022-12-16,Bronze
+1967,Bob Moore,Germany,2015-05-16,Bronze
+1968,Paula Miller,Australia,2017-08-16,Silver
+1969,Quinn Jones,India,2015-09-26,Bronze
+1970,Oscar Thompson,United States,2015-02-08,Silver
+1971,Rachel Thomas,United Kingdom,2019-10-23,Silver
+1972,Bob Martin,Australia,2017-10-02,Bronze
+1973,Oscar Taylor,Australia,2015-09-06,Silver
+1974,Julia Martin,United Kingdom,2017-11-24,Bronze
+1975,Julia Davis,Spain,2017-12-09,Bronze
+1976,Tina Garcia,Japan,2019-06-22,Bronze
+1977,George Lee,Australia,2016-01-28,Silver
+1978,Quinn Brown,France,2020-12-28,Gold
+1979,Hannah Miller,Canada,2022-11-09,Gold
+1980,Julia Williams,Australia,2018-10-13,Gold
+1981,Steve Lee,Germany,2020-03-07,Bronze
+1982,Oscar Williams,France,2019-02-22,Silver
+1983,Tina Jackson,United Kingdom,2019-05-26,Bronze
+1984,Carlos Miller,United Kingdom,2016-04-22,Bronze
+1985,Paula Martin,Brazil,2015-10-04,Gold
+1986,Rachel Harris,Spain,2020-03-04,Silver
+1987,Quinn Young,Germany,2021-05-30,Gold
+1988,Bob Young,United States,2020-01-21,Platinum
+1989,Ethan Taylor,India,2018-05-08,Bronze
+1990,Bob Lee,United States,2019-08-26,Gold
+1991,Kevin Smith,Spain,2018-01-18,Bronze
+1992,Mike Thomas,United States,2018-10-01,Gold
+1993,Alice Jackson,India,2021-05-11,Bronze
+1994,Fiona Anderson,Australia,2016-10-02,Gold
+1995,Quinn Lee,Brazil,2017-03-20,Bronze
+1996,Rachel Wilson,United States,2019-12-16,Silver
+1997,Ivan Brown,Spain,2015-04-20,Bronze
+1998,Ivan Brown,Japan,2022-08-13,Silver
+1999,Diana Harris,Brazil,2016-07-13,Bronze
+2000,Paula Young,Brazil,2017-07-27,Bronze
