@@ -1,3 +1,13 @@
+---
+title: Lens SQL
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 <div align="center">
 
 # Lens — Live SQL Execution Visualizer
